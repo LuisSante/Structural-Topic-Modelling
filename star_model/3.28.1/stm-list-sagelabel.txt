@@ -1,0 +1,18 @@
+Topic 1: 
+ 	 Marginal Highest Prob: actualizacion, problema, ultima, prestamo, dia, cada, carga 
+ 	 Marginal FREX: actualizacion, prestamo, dia, cada, ultima, carga, falla 
+ 	 Marginal Lift: actualizacion, prestamo, cada, carga, dia, falla, hace 
+ 	 Marginal Score: vece, actualizacion, dia, prestamo, ultima, problema, falla 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, abrir, favor, aplicacion, puedo, funciona, numero 
+ 	 Marginal FREX: puedo, numero, app, cambi, nuevo, favor, llave 
+ 	 Marginal Lift: abr, aplicativo, desinstal, jose, mas, permit, poder 
+ 	 Marginal Score: mas, llave, puedo, favor, abrir, numero, sale 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

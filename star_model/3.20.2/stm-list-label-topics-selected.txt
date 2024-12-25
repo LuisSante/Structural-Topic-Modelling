@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: aplicacion, app, favor, mas, problema, ingresar, ahora 
+ 	 FREX: abr, vez, cada, demasiado, pesima, vuelva, demora 
+ 	 Lift: cada, abr, actualizar, alta, basura, demasiado, estrella 
+ 	 Score: aplicacion, app, abr, vez, mas, ingresar, cada 
+Topic 2 Top Words:
+ 	 Highest Prob: llave, puedo, error, cuenta, sale, solo, entrar 
+ 	 FREX: deja, dato, foto, crear, validar, tarjeta, entra 
+ 	 Lift: ayudar, camara, crear, dato, deja, facil, foto 
+ 	 Score: llave, puedo, cuenta, error, foto, deja, validar 

@@ -1,0 +1,20 @@
+Topic 1 Top Words:
+ 	 Highest Prob: abrir, deja, quiero, sin, mantenimiento, cuenta, ahora 
+ 	 FREX: lento, pesimo, trabajo, sin, recarga, abrir, fallando 
+ 	 Lift: aplicacionno, billetera, bueno, carnet, cierra, claro, demasiado 
+ 	 Score: abrir, deja, trabajo, lento, sin, pesimo, permiso 
+Topic 2 Top Words:
+ 	 Highest Prob: llave, aplicacion, sale, mapear, actualizar, dice, mas 
+ 	 FREX: actualizar, nunca, dice, gracia, mapear, error, bien 
+ 	 Lift: actualizar, administrador, client, hoy, privilegio, efectivo, intent 
+ 	 Score: llave, sale, actualizar, aplicacion, mapear, dice, error 
+Topic 3 Top Words:
+ 	 Highest Prob: puedo, problema, ingresar, entrar, cuenta, mal, mas 
+ 	 FREX: favor, puedo, aplicativo, intento, problema, notificacion, entrar 
+ 	 Lift: aplicativo, baja, deberian, descargu, entro, intento, luego 
+ 	 Score: puedo, problema, entrar, favor, ingresar, intento, aplicativo 
+Topic 4 Top Words:
+ 	 Highest Prob: app, pued, funciona, solo, dia, queda, carga 
+ 	 FREX: queda, aprobado, positivo, carga, ultima, abr, verdad 
+ 	 Lift: aprobado, positivo, abr, ahi, anterior, cerrar, clave 
+ 	 Score: aprobado, positivo, queda, app, funciona, actualizacion, carga 

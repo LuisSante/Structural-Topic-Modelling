@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: puedo, app, cuenta, pued, intento, quiero, solo 
+ 	 FREX: pued, puedo, app, intento, diciendo, mas, quiero 
+ 	 Lift: bueno, desinstalar, despu, pued, servicio, vario, diciendo 
+ 	 Score: desinstalar, puedo, app, mas, pued, bueno, intento 
+Topic 2 Top Words:
+ 	 Highest Prob: llave, sale, problema, aplicacion, ingresar, mal, semana 
+ 	 FREX: llave, sale, problema, ingresar, semana, dinero, permit 
+ 	 Lift: abr, actualizacion, afiliarm, asi, aviso, celular, debe 
+ 	 Score: asi, llave, sale, dinero, reconoc, permit, problema 

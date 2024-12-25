@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: mas, pued, pide, hacer, mala, mal, play 
+ 	 Marginal FREX: mala, store, actualiza, atencion, recibida, enojada, lento 
+ 	 Marginal Lift: actualizarvoy, android, anteriorment, antiguo, celu, dos, haciendo 
+ 	 Marginal Score: funcionan, mas, pued, mala, pide, hacer, store 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: app, actualizacion, cuenta, deja, tard, dinero, respond 
+ 	 Marginal FREX: cuenta, dni, sirv, piden, aun, debe, tard 
+ 	 Marginal Lift: actualizada, actualizoigu, actualment, agrad, appingreso, biendia, cayo 
+ 	 Marginal Score: recuenta, app, actualizacion, cuenta, deja, tard, dinero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: ingresar, favor, vece, funciona, solucion, cada, siempr 
+ 	 Marginal FREX: ingresar, solucion, tarjeta, paso, contraseña, saldo, malo 
+ 	 Marginal Lift: acepto, apea, arregla, crean, digit, dolar, equivoca 
+ 	 Marginal Score: negativa, ingresar, funciona, vece, solucion, favor, siempr 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: actualizar, sale, ahora, permit, error, pesimo, opcion 
+ 	 Marginal FREX: sale, opcion, nueva, manda, clave, intentando, sole 
+ 	 Marginal Lift: casa, grand, perjudica, señor, siquiera, solicita, vaina 
+ 	 Marginal Score: chever, actualizar, sale, permit, ahora, opcion, pesimo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: puedo, llave, aplicacion, dice, problema, entrar, abrir 
+ 	 Marginal FREX: entrar, hago, mensaj, nuevament, deberia, falla, puedo 
+ 	 Marginal Lift: avanzar, cancelar, comentario, deficient, denuedo, desastr, email 
+ 	 Marginal Score: bienquiero, puedo, aplicacion, llave, entrar, problema, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: sale, entrar, error, abrir, dia, favor, vece 
+ 	 Marginal FREX: dia, trist, tener, wifi, situacion, bien, abr 
+ 	 Marginal Lift: julio, tener, varia, wifi, dia, acept, activa 
+ 	 Marginal Score: activa, sale, error, entrar, dia, favor, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: problema, mas, deja, cada, usar, falla, internet 
+ 	 Marginal FREX: deja, internet, aplicativo, cada, mas, entra, intentarlo 
+ 	 Marginal Lift: aplicativo, correo, deja, internet, ami, ayuden, colgando 
+ 	 Marginal Score: decepcion, deja, problema, mas, cada, internet, usar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: llave, puedo, app, ahora, mal, pesimo, funciona 
+ 	 Marginal FREX: pesimo, intentar, deberia, funciona, servicio, permit, mal 
+ 	 Marginal Lift: deberia, pesimo, abrirlo, ando, bug, cambi, causa 
+ 	 Marginal Score: bug, llave, puedo, app, mal, pesimo, funciona 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: cuenta, salio, solo, dinero, pesima, solucion, atencion 
+ 	 Marginal FREX: dinero, atencion, queda, privilegio, pesima, intentando, respuesta 
+ 	 Marginal Lift: dinero, intentando, pesima, apeo, atencion, avisar, basura 
+ 	 Marginal Score: pena, cuenta, pesima, dinero, salio, atencion, solo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: aplicacion, ingresar, actualizacion, pued, hacer, ant, sin 
+ 	 Marginal FREX: ant, dato, quiero, demora, recibida, desastr, version 
+ 	 Marginal Lift: banco, red, resulta, dato, quiero, bueno, caido 
+ 	 Marginal Score: estupidez, aplicacion, ingresar, actualizacion, pued, hacer, mapear 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

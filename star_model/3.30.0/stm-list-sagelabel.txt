@@ -1,0 +1,18 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, puedo, pued, entrar, nombr, app, funciona 
+ 	 Marginal FREX: puedo, pued, entrar, nombr, app, funciona, cada 
+ 	 Marginal Lift: ahi, aparec, apellido, app, capea, carga, cayendo 
+ 	 Marginal Score: entra, puedo, llave, pued, entrar, app, nombr 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, sale, mas, dice, asi, sistema, mal 
+ 	 Marginal FREX: aplicacion, mas, asi, mal, numero, abrir, completo 
+ 	 Marginal Lift: abrir, completo, fallando, salio, aplicacion, mas, acaban 
+ 	 Marginal Score: mandar, mas, aplicacion, mala, asi, completo, dia 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

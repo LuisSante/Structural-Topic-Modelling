@@ -1,0 +1,36 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, escanear, favor, problema, dia, vez, enojado 
+ 	 Marginal FREX: enojado, frustrado, llave, ayer, debe, solucion, escanear 
+ 	 Marginal Lift: frustrado, enojado, anyi, aplicativo, ayer, debe, deberian 
+ 	 Marginal Score: lento, llave, escanear, favor, problema, enojado, vez 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: dni, puedo, foto, tomar, mismo, identidad, dato 
+ 	 Marginal FREX: vuelv, solo, puedo, nuevament, foto, continuar, tomar 
+ 	 Marginal Lift: solo, continuar, descontento, impresionado, instalar, nuevament, red 
+ 	 Marginal Score: red, puedo, dni, foto, identidad, vuelv, solo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: cuenta, pued, deja, crear, permit, mas, intento 
+ 	 Marginal FREX: pued, crear, sirv, quiero, buena, codigo, entiendo 
+ 	 Marginal Lift: buena, codigo, pued, quiero, sirv, acepto, adelant 
+ 	 Marginal Score: descarguen, cuenta, crear, deja, pued, permit, quiero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, sale, validar, app, registrarm, ingresar, opcion 
+ 	 Marginal FREX: validar, app, intentando, llevo, facial, hago, hora 
+ 	 Marginal Lift: hora, mala, nuevo, sistema, opcion, validar, acepta 
+ 	 Marginal Score: entra, aplicacion, app, validar, sale, actualizar, intentando 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

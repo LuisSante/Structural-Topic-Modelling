@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, puedo, aplicacion, sale, app, problema, hace 
+ 	 Marginal FREX: puedo, aplicacion, mala, debe, problema, descargu, llave 
+ 	 Marginal Lift: negocio, cerrar, nombr, descargu, puedo, dema, debe 
+ 	 Marginal Score: puedo, llave, aplicacion, sale, app, mala, problema 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: cuenta, ingresar, deja, pesimo, celular, notificacion, crear 
+ 	 Marginal FREX: atencion, ingresar, recibida, enojada, ingreso, pesimo, clave 
+ 	 Marginal Lift: enojada, enojado, ingreso, teclado, atencion, recibida, clave 
+ 	 Marginal Score: atencion, recibida, ingresar, enojada, cuenta, pesimo, celular 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: entrar, mal, bien, solucion, salio, denegado, acceso 
+ 	 Marginal FREX: dispositivo, entrar, denegado, administrador, desinstal, identidad, seguridad 
+ 	 Marginal Lift: aplicacionno, avisar, desinstal, dieron, entra, fin, identidad 
+ 	 Marginal Score: entrar, mal, dispositivo, denegado, salio, bien, privilegio 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: ahora, actualizacion, numero, error, funciona, favor, ant 
+ 	 Marginal FREX: numero, ver, dar, respuesta, error, sole, gracia 
+ 	 Marginal Lift: apeaban, basura, completo, cualquier, dar, hola, mano 
+ 	 Marginal Score: numero, actualizacion, ahora, dinero, error, ver, gracia 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: dia, mas, usar, hacer, dni, pago, actualizar 
+ 	 Marginal FREX: sirv, pago, ayuda, insatisfecho, voy, falla, foto 
+ 	 Marginal Lift: ayuda, bloquea, confiabl, efectivo, falla, funcion, hizo 
+ 	 Marginal Score: dia, usar, sirv, pago, actualizar, insatisfecho, dni 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

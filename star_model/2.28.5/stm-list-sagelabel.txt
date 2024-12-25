@@ -1,0 +1,36 @@
+Topic 1: 
+ 	 Marginal Highest Prob: mapear, abrir, opcion, inconvenient, funciona, pago, usar 
+ 	 Marginal FREX: funciona, pago, situacion, nunca, usar, opcion, cada 
+ 	 Marginal Lift: activar, ami, asco, nuevo, quis, realizo, tres 
+ 	 Marginal Score: tres, mapear, situacion, funciona, enojado, opcion, aparec 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, puedo, app, cuenta, dia, hace, celular 
+ 	 Marginal FREX: crear, llave, hace, mucha, dia, numero, tenia 
+ 	 Marginal Lift: crear, acceso, algun, cargando, contacto, denegado, diciendo 
+ 	 Marginal Score: algun, llave, puedo, dia, cuenta, app, hace 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: aplicacion, hacer, dni, pued, error, dice, actualizar 
+ 	 Marginal FREX: hacer, mal, pesimo, dni, dice, deberian, minuto 
+ 	 Marginal Lift: deberian, hacer, minuto, dni, mal, pesimo, actualizarlo 
+ 	 Marginal Score: fallando, hacer, dni, aplicacion, actualizar, dice, pued 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: sale, problema, deja, favor, ahora, quiero, trist 
+ 	 Marginal FREX: deja, buena, administrador, quiero, problema, alguien, asi 
+ 	 Marginal Lift: entonc, eternidad, gusta, impresionado, mio, obtenido, use 
+ 	 Marginal Score: gusta, sale, deja, problema, favor, quiero, buena 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

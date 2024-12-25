@@ -1,0 +1,20 @@
+Topic 1 Top Words:
+ 	 Highest Prob: aplicacion, entrar, pago, pued, acceso, opcion, aplicativo 
+ 	 FREX: aplicacion, entrar, pago, acceso, opcion, dispositivo, privilegio 
+ 	 Lift: pago, acceso, actualiza, administrador, aplicacion, colocar, cualquier 
+ 	 Score: aplicacion, cualquier, entrar, privilegio, pago, opcion, administrador 
+Topic 2 Top Words:
+ 	 Highest Prob: dice, plan, dia, pesimo, hace, banco, vez 
+ 	 FREX: pesimo, nueva, queda, dato, prestamo, inconvenient, pasa 
+ 	 Lift: ahi, alguna, bien, cierto, crearm, dato, doy 
+ 	 Score: lenta, dice, nueva, pesimo, plan, prestamo, vez 
+Topic 3 Top Words:
+ 	 Highest Prob: sale, app, actualizar, actualizacion, pued, mas, abrir 
+ 	 FREX: sale, app, actualizacion, permit, pide, funciona, aparec 
+ 	 Lift: app, intentado, malo, notificacion, peor, pide, sale 
+ 	 Score: peor, app, sale, actualizacion, permit, abrir, actualizar 
+Topic 4 Top Words:
+ 	 Highest Prob: llave, puedo, problema, ahora, cuenta, mal, abr 
+ 	 FREX: ahora, quiero, necesito, cuenta, problema, favor, virus 
+ 	 Lift: quiero, activar, ahora, ahorita, cambi, decir, descontento 
+ 	 Score: activar, llave, puedo, ahora, problema, favor, cuenta 

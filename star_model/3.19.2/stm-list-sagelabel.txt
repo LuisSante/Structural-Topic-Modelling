@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: problema, cuenta, dice, error, mas, solucion, mapear 
+ 	 Marginal FREX: mapear, problema, cuenta, cierr, error, solucion, monto 
+ 	 Marginal Lift: mapear, ape, cierr, denegado, estan, funcionaba, funcionando 
+ 	 Marginal Score: funcionando, problema, cuenta, dice, error, solucion, mapear 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, entrar, abr, dia, hacer, pago, quier 
+ 	 Marginal FREX: plata, abr, aun, lento, registrarm, dia, pago 
+ 	 Marginal Lift: plata, aun, edad, intent, llame, registrarm, varia 
+ 	 Marginal Score: edad, llave, entrar, dia, abr, hacer, pago 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, ingresar, solo, favor, carga, numero, vece 
+ 	 Marginal FREX: vece, poder, ingresa, nunca, aprobado, positivo, debe 
+ 	 Marginal Lift: ingresa, nunca, appl, aprobado, bueno, chever, claro 
+ 	 Marginal Score: appl, puedo, ingresar, vece, carga, favor, solo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: app, cada, deja, hace, funciona, actualizacion, aplicativo 
+ 	 Marginal FREX: funciona, rato, sin, tiempo, situacion, desinstal, cada 
+ 	 Marginal Lift: funciona, situacion, actualizan, ami, anda, argentina, bastant 
+ 	 Marginal Score: meno, app, cada, funciona, hace, situacion, rato 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: aplicacion, sale, abrir, queda, pued, mal, momento 
+ 	 Marginal FREX: aplicacion, sale, pued, mal, servicio, vez, atencion 
+ 	 Marginal Lift: sale, aplicacion, agarra, alguien, apea, atencion, bucl 
+ 	 Marginal Score: gusto, aplicacion, sale, mal, abrir, pued, atencion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

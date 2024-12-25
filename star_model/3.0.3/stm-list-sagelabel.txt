@@ -1,0 +1,18 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, actualizacion, problema, sale, favor, abrir, puedo 
+ 	 Marginal FREX: numero, bien, grand, ahora, app, error, horribl 
+ 	 Marginal Lift: numero, problema, adema, agrada, ahora, ant, app 
+ 	 Marginal Score: congela, llave, numero, actualizacion, bien, ver, problema 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, ingresar, dato, abr, despu, dice, celular 
+ 	 Marginal FREX: aplicacion, abr, dice, celular, funciona, despu, actualiza 
+ 	 Marginal Lift: aplicacion, abr, aplicativo, celular, dice, funciona, intent 
+ 	 Marginal Score: celular, aplicacion, abr, funciona, dice, despu, aplicativo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

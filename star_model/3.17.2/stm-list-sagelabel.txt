@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, ingresar, mas, favor, mal, error, abrir 
+ 	 Marginal FREX: recibida, enojada, atencion, llave, tenia, horribl, abrir 
+ 	 Marginal Lift: recibida, android, cambien, enojada, entiendo, seguro, mañana 
+ 	 Marginal Score: llave, recibida, mas, atencion, ingresar, enojada, error 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, numero, actualizacion, pued, funciona, pesimo, poder 
+ 	 Marginal FREX: persona, credito, pesimo, numero, madrugada, puntual, color 
+ 	 Marginal Lift: aburrido, aunqu, bloquear, brillo, caiga, comunicarm, credito 
+ 	 Marginal Score: numero, puedo, actualizacion, persona, pued, pesimo, nueva 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: problema, clave, ver, ahora, carga, ultima, pago 
+ 	 Marginal FREX: codigo, tiempo, doy, pantalla, sole, ubicacion, carga 
+ 	 Marginal Lift: adaptars, anuncio, cantidad, codigo, continuar, corregir, digitar 
+ 	 Marginal Score: clave, ver, problema, codigo, blanco, carga, ahora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, app, deja, solo, actualizar, hacer, quiero 
+ 	 Marginal FREX: actualizar, trist, descontento, app, falla, deja, descargar 
+ 	 Marginal Lift: buen, cargu, causa, impresionado, molesto, ocupa, sarcasmo 
+ 	 Marginal Score: aplicacion, actualizar, app, deja, trist, descontento, solo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: sale, entrar, celular, dice, cuenta, momento, necesito 
+ 	 Marginal FREX: ingresa, quier, mapeo, movimiento, paso, registrarm, dice 
+ 	 Marginal Lift: apean, aquello, bloqueado, creando, desinstalado, disculpen, figura 
+ 	 Marginal Score: sale, entrar, dice, quier, cuenta, fallando, celular 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

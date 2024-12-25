@@ -1,0 +1,18 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, aplicacion, sale, vece, clave, funciona, cuenta 
+ 	 Marginal FREX: clave, octubr, contraseña, actualizacion, sirv, usar, vuelvo 
+ 	 Marginal Lift: actualizacion, bloqueo, clave, estan, incorrecto, intentar, necesito 
+ 	 Marginal Score: clave, aplicacion, sale, usar, sirv, octubr, contraseña 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: app, codigo, cada, vez, chever, hacer, dinero 
+ 	 Marginal FREX: chever, codigo, notificacion, puedo, suena, hacer, dinero 
+ 	 Marginal Lift: notificacion, puedo, suena, chever, llega, telefono, codigo 
+ 	 Marginal Score: notificacion, puedo, suena, codigo, chever, hacer, llega 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

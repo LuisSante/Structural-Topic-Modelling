@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: puedo, mas, dia, actualizar, mapear, permit, crear 
+ 	 Marginal FREX: actualizar, carga, puedo, pesima, permit, hora, dia 
+ 	 Marginal Lift: descargarlo, paga, teclado, queriendo, mapeen, equivocacion, bono 
+ 	 Marginal Score: puedo, actualizar, dia, mapear, mas, permit, carga 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: sale, dni, error, saldo, favor, opcion, celular 
+ 	 Marginal FREX: error, opcion, falla, sale, respond, saldo, usando 
+ 	 Marginal Lift: blanco, digo, confundido, enfocado, incierto, mostrar, noma 
+ 	 Marginal Score: sale, error, dni, opcion, saldo, favor, respond 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: cuenta, dinero, hace, dice, ingresar, numero, solucion 
+ 	 Marginal FREX: dice, frustrado, enojado, cuenta, temporalment, dato, monto 
+ 	 Marginal Lift: apearon, bodega, causa, centro, comio, llamo, madr 
+ 	 Marginal Score: cuenta, dice, numero, dinero, hace, sole, solucion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, app, problema, hacer, quiero, funciona, banco 
+ 	 Marginal FREX: respuesta, desapruebo, codigo, llega, trabajo, app, requier 
+ 	 Marginal Lift: maravilla, mod, completo, dado, devolucion, hacerm, mujer 
+ 	 Marginal Score: app, aplicacion, hacer, problema, respuesta, quiero, mal 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: llave, pued, ahora, pesimo, solo, nunca, asi 
+ 	 Marginal FREX: verdad, pesimo, sigu, llave, descargar, demora, pued 
+ 	 Marginal Lift: ninguno, amoroso, cariñoso, rede, enojada, indignacion, plata 
+ 	 Marginal Score: llave, pued, pesimo, solo, ahora, actualiza, descargar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

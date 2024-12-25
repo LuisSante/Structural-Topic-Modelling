@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, aplicacion, cuenta, problema, deja, permit, sirv 
+ 	 Marginal FREX: sirv, ultima, carga, aplicacion, avanzar, frustradono, recuperar 
+ 	 Marginal Lift: avanzar, frustradono, cansado, tenerla, dieran, cebada, seña 
+ 	 Marginal Score: aplicacion, llave, cuenta, deja, problema, sirv, recibida 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, dia, ahora, error, entrar, hace, mal 
+ 	 Marginal FREX: hace, siempr, mala, mal, acced, ahora, horribl 
+ 	 Marginal Lift: tapiar, vas, tomar, nacion, breve, engorroso, descarga 
+ 	 Marginal Score: puedo, dia, ahora, entrar, error, hace, mal 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, sale, dice, pesimo, pesima, mapear, hacer 
+ 	 Marginal FREX: trist, app, decepcionado, pesima, situacion, pesimo, quiero 
+ 	 Marginal Lift: frustrada, trist, decepcionado, directament, mejoramiento, problematico, recuerda 
+ 	 Marginal Score: app, sale, pesima, pesimo, mapear, decepcionado, trist 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: dni, dinero, administrador, funciona, privilegio, numero, ser 
+ 	 Marginal FREX: ser, seguridad, utilizado, obtenido, reconoc, administrador, indiferent 
+ 	 Marginal Lift: haria, reclam, utilizado, venta, apearm, caduco, delantera 
+ 	 Marginal Score: dinero, administrador, ser, dni, indiferent, privilegio, funciona 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: pued, ingresar, mas, favor, solo, tard, registrarm 
+ 	 Marginal FREX: llega, positivo, verificacion, aprobado, total, mas, equidad 
+ 	 Marginal Lift: dirigida, femenina, lamentablement, mujer, peru, positivo, robado 
+ 	 Marginal Score: mas, ingresar, pued, favor, registrarm, actualizar, tard 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

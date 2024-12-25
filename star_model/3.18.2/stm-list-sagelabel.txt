@@ -1,0 +1,36 @@
+Topic 1: 
+ 	 Marginal Highest Prob: ingresar, pago, celular, enojado, funciona, ultima, buena 
+ 	 Marginal FREX: funciona, ultima, celular, buena, facilita, forma, funcionar 
+ 	 Marginal Lift: afiliado, denegado, facilita, forma, funciona, funcionar, madrugada 
+ 	 Marginal Score: papa, ingresar, funciona, celular, ultima, buena, enojado 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, actualizacion, actualizar, dinero, deja, rato, mala 
+ 	 Marginal FREX: actualizacion, dinero, opcion, llego, empresa, llega, rato 
+ 	 Marginal Lift: dinero, administrador, cansa, cobrar, contamo, dieron, electronico 
+ 	 Marginal Score: identidad, llave, actualizacion, dinero, actualizar, necesito, rato 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: numero, pued, entrar, solo, problema, error, atencion 
+ 	 Marginal FREX: dice, usar, recibida, causa, atencion, descargar, trist 
+ 	 Marginal Lift: dice, usar, adema, asco, basura, blanco, escrib 
+ 	 Marginal Score: basura, numero, pued, atencion, problema, entrar, error 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: puedo, aplicacion, app, favor, mas, cada, cuenta 
+ 	 Marginal FREX: puedo, aplicacion, app, mas, cuenta, instalar, paso 
+ 	 Marginal Lift: mas, app, puedo, acced, alguien, aplicacion, cae 
+ 	 Marginal Score: luego, puedo, aplicacion, app, mas, favor, cada 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: problema, solo, error, hace, crear, quiero, mapear 
+ 	 Marginal FREX: solo, mapear, entrar, problema, numero, solucion, dinero 
+ 	 Marginal Lift: consulta, eliminar, mapear, muestra, negocio, principio, resuelv 
+ 	 Marginal Score: muestra, solo, problema, mapear, error, quiero, crear 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, dia, mas, instalar, funciona, asi, paso 
+ 	 Marginal FREX: mas, hora, nunca, recarga, instalar, funciona, bueno 
+ 	 Marginal Lift: acepta, ape, asco, bloquean, cambia, cierr, hora 
+ 	 Marginal Score: ape, aplicacion, mas, dia, instalar, funciona, hora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, cuenta, app, ingresar, dice, notificacion, vece 
+ 	 Marginal FREX: app, ayuda, volver, notificacion, puedo, intent, poner 
+ 	 Marginal Lift: app, ayuda, recibo, chever, experiencia, volver, ultima 
+ 	 Marginal Score: chever, puedo, app, cuenta, notificacion, ingresar, dice 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: llave, sale, pued, ahora, deja, favor, banco 
+ 	 Marginal FREX: favor, vez, mensaj, varia, tener, llevo, sale 
+ 	 Marginal Lift: actualizarlo, android, espero, mensaj, pudiera, varia, favor 
+ 	 Marginal Score: actualizarlo, llave, sale, pued, favor, deja, ahora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: dni, aparec, saldo, intentando, bien, siempr, sole 
+ 	 Marginal FREX: siempr, sole, pueden, dos, reconoc, dni, figura 
+ 	 Marginal Lift: ahi, apeo, basura, comunico, dificil, encima, esperando 
+ 	 Marginal Score: tan, dni, intentando, aparec, pueden, saldo, siempr 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

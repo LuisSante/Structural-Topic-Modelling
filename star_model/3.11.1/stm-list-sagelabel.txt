@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, puedo, dinero, pago, causa, sarcasmo, instalar 
+ 	 Marginal FREX: causa, sarcasmo, seguridad, ayudar, hola, opcion, puedo 
+ 	 Marginal Lift: administrador, causa, cuidado, denegado, obtenido, opinion, parec 
+ 	 Marginal Score: causa, sarcasmo, llave, puedo, instalar, dinero, opcion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: sale, solo, favor, crear, queda, mas, jose 
+ 	 Marginal FREX: pantalla, validar, tarjeta, contraseña, intentando, chever, quisiera 
+ 	 Marginal Lift: ahi, ala, blanco, buen, caja, contraseña, doy 
+ 	 Marginal Score: pantalla, crear, jose, queda, permit, favor, tarjeta 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: cuenta, ahora, numero, hacer, pagar, carga, actualizacion 
+ 	 Marginal FREX: internet, aplicativo, comprar, dicen, esperar, sistema, ahora 
+ 	 Marginal Lift: avisa, cambiado, comprar, conexion, cree, debe, decepcionado 
+ 	 Marginal Score: cuenta, ahora, internet, numero, dicen, actualizacion, pagar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, ingresar, deja, dia, entrar, dice, actualizar 
+ 	 Marginal FREX: enojado, actualizar, entrar, wifi, falla, aplicacion, demora 
+ 	 Marginal Lift: adema, frustrado, rendimiento, enojado, cta, correo, apuro 
+ 	 Marginal Score: aplicacion, deja, actualizar, entrar, enojado, ingresar, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: app, problema, pued, mal, funciona, solucion, saldo 
+ 	 Marginal FREX: saldo, app, alguna, arreglen, pueden, vuelva, bien 
+ 	 Marginal Lift: agent, alguna, arreglen, aumentar, cobrando, diario, maximo 
+ 	 Marginal Score: app, saldo, problema, pued, funciona, solucion, pueden 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

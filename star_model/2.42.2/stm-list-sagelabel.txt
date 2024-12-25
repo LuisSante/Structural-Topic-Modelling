@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: dice, solo, pagar, saldo, bcp, paso, hago 
+ 	 Marginal FREX: pagar, saldo, dan, carga, reconoc, pueda, quisiera 
+ 	 Marginal Lift: carga, pagar, reconoc, apearon, chever, dan, esperando 
+ 	 Marginal Score: chever, solo, dice, pagar, saldo, dan, bcp 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, pued, plan, dia, cuenta, abrir, dni 
+ 	 Marginal FREX: cuenta, numero, uso, sole, dia, ahi, planear 
+ 	 Marginal Lift: ase, cree, creo, podria, proceso, recargar, señal 
+ 	 Marginal Score: señal, puedo, pued, dia, plan, cuenta, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: llave, aplicacion, mapear, mas, actualizacion, dinero, hace 
+ 	 Marginal FREX: dinero, administrador, instal, version, abr, transferencia, pasa 
+ 	 Marginal Lift: abr, actualizada, horribl, idea, roben, tarda, version 
+ 	 Marginal Score: tarda, aplicacion, llave, mas, dinero, actualizacion, mapear 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: sale, ingresar, error, hacer, opcion, solucion, atencion 
+ 	 Marginal FREX: sale, ingresar, error, atencion, recibida, enojada, intento 
+ 	 Marginal Lift: atencion, ingresar, recibida, acabo, acced, apeo, bienhac 
+ 	 Marginal Score: media, sale, recibida, atencion, enojada, ingresar, error 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: app, actualizar, mal, deja, problema, favor, salio 
+ 	 Marginal FREX: problema, bien, abril, actualizar, inconvenient, deja, pesimo 
+ 	 Marginal Lift: abril, bien, ayudan, escanear, inconvenient, llegu, neutra 
+ 	 Marginal Score: plata, actualizar, app, deja, problema, mal, entrar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: hace, error, dice, pago, actualizacion, crear, neutra 
+ 	 Marginal FREX: neutra, opinion, hace, contraseña, crear, mismo, mapeo 
+ 	 Marginal Lift: contraseña, contacto, efectivo, neutra, opinion, peor, requier 
+ 	 Marginal Score: efectivo, neutra, opinion, hace, error, dice, pago 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: sale, favor, entrar, bcp, deja, saldo, vece 
+ 	 Marginal FREX: entrar, deja, favor, atencion, bcp, client, persona 
+ 	 Marginal Lift: atencion, client, entrar, incomodidad, mmm, persona, transaccion 
+ 	 Marginal Score: mmm, sale, favor, entrar, deja, bcp, saldo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, cuenta, dia, hacer, mapear, dni, ingresar 
+ 	 Marginal FREX: hoy, eliminar, funcionaba, trabajo, descargu, ant, cuenta 
+ 	 Marginal Lift: conectada, credito, descargu, eliminar, funcionaba, hoy, trabajo 
+ 	 Marginal Score: credito, puedo, cuenta, dia, mapear, bien, ingresar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, mas, mal, ahora, quiero, salio, dinero 
+ 	 Marginal FREX: mal, dinero, sole, cada, foto, aplicacion, apearon 
+ 	 Marginal Lift: cada, claro, desaparecieron, dinero, foto, mal, movistar 
+ 	 Marginal Score: porqueria, aplicacion, mal, mas, dinero, salio, ahora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: llave, app, problema, abrir, actualizar, pued, funciona 
+ 	 Marginal FREX: pued, abr, siempr, banco, numero, sin, identidad 
+ 	 Marginal Lift: abr, actualic, apean, atend, banco, bloqueo, correo 
+ 	 Marginal Score: falla, llave, app, abr, funciona, pued, actualizar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

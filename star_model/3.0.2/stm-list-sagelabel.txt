@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: error, sale, dia, deja, mensaj, conexion, grand 
+ 	 Marginal FREX: deja, version, conexion, opcion, grand, van, ninguna 
+ 	 Marginal Lift: actual, ninguna, registrarm, sonido, van, opcion, intento 
+ 	 Marginal Score: registrarm, sale, error, deja, dia, mensaj, conexion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, llave, mal, pued, hacer, dice, desinstal 
+ 	 Marginal FREX: llave, desinstal, nunca, atencion, recibida, pueden, mala 
+ 	 Marginal Lift: nunca, alguien, descargo, diario, pueden, virus, atencion 
+ 	 Marginal Score: diario, aplicacion, llave, mal, pued, desinstal, instalar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, ingresar, ahora, falla, demasiado, fallando, mismo 
+ 	 Marginal FREX: fallando, mucha, carga, ingresar, pesima, pesimo, noch 
+ 	 Marginal Lift: agradecido, descontento, esperanzado, junio, mucha, noch, plata 
+ 	 Marginal Score: descontento, puedo, ingresar, falla, fallando, demasiado, mucha 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: problema, app, entrar, cada, mas, rato, abr 
+ 	 Marginal FREX: rato, letra, transferencia, internet, presentando, pagar, trist 
+ 	 Marginal Lift: insatisfecho, basura, frustracion, meno, modo, suena, transferencia 
+ 	 Marginal Score: meno, problema, app, rato, cada, letra, hace 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: actualizacion, ultima, abrir, mapear, favor, permit, funciona 
+ 	 Marginal FREX: ultima, varia, abrir, bcp, situacion, cuenta, ver 
+ 	 Marginal Lift: dejo, mod, perder, cargando, dejar, dinamico, malo 
+ 	 Marginal Score: dejo, ultima, actualizacion, abrir, mapear, favor, vece 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

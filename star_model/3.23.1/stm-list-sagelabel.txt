@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: ahora, carga, vece, dinero, cuenta, cada, mantenimiento 
+ 	 Marginal FREX: cae, dinero, funcionar, sole, cuenta, estan, realizar 
+ 	 Marginal Lift: buenovec, cae, cobran, confiabl, doy, estan, hecho 
+ 	 Marginal Score: dinero, cae, cada, vece, sole, cuenta, hora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, dia, problema, pued, mas, atencion, recibida 
+ 	 Marginal FREX: atencion, recibida, enojado, enojada, servicio, dia, habr 
+ 	 Marginal Lift: enojado, atencion, enojada, habia, habria, llevo, realic 
+ 	 Marginal Score: atencion, recibida, aplicacion, dia, problema, enojada, enojado 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, actualizacion, ver, solo, ultima, dice, error 
+ 	 Marginal FREX: movimiento, abr, ultima, ultimo, morada, app, deberia 
+ 	 Marginal Lift: anticipacion, avisar, deberia, filtro, lugar, manda, selecciono 
+ 	 Marginal Score: app, ultima, ver, actualizacion, solo, abr, ultimo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: llave, puedo, sale, abrir, ingresar, funciona, notificacion 
+ 	 Marginal FREX: notificacion, lento, sale, llave, suena, llegan, ingresar 
+ 	 Marginal Lift: agradecido, esperanzado, manipulado, motivo, palabra, requier, debera 
+ 	 Marginal Score: llave, puedo, sale, notificacion, ingresar, abrir, lento 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: demora, favor, entrar, hace, aplicativo, mal, arreglen 
+ 	 Marginal FREX: situacion, frustrada, entra, acced, solucionar, podrian, gracia 
+ 	 Marginal Lift: acced, situacion, abrirs, ala, avanzar, boton, entra 
+ 	 Marginal Score: entrar, situacion, demora, favor, frustrada, aplicativo, hace 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

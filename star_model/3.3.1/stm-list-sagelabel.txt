@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: cuenta, mas, crear, dia, aplicativo, instalar, dni 
+ 	 Marginal FREX: mas, crear, funciona, solucion, tarjeta, acceso, demasiado 
+ 	 Marginal Lift: cargar, demasiado, elimin, intent, lenta, mas, pone 
+ 	 Marginal Score: usuario, cuenta, mas, crear, dia, aplicativo, instalar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: actualizacion, ingresar, problema, hacer, clave, ayuda, numero 
+ 	 Marginal FREX: problema, clave, numero, hacer, descargar, actualiza, compra 
+ 	 Marginal Lift: problema, descargar, numero, actualiza, bono, clave, colocar 
+ 	 Marginal Score: forma, actualizacion, ingresar, problema, clave, hacer, numero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, pued, favor, quiero, ahora, atencion, recibida 
+ 	 Marginal FREX: app, recibida, solo, momento, enojada, enojado, quiero 
+ 	 Marginal Lift: app, enojada, acabo, codigo, contacto, correo, doy 
+ 	 Marginal Score: negativo, app, recibida, enojada, atencion, solo, favor 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: llave, puedo, sale, entrar, pesima, cada, queda 
+ 	 Marginal FREX: cada, queda, gracia, validar, entrar, pide, celular 
+ 	 Marginal Lift: gracia, cada, queda, entiendo, fallando, ingresa, intentando 
+ 	 Marginal Score: noch, llave, sale, puedo, entrar, queda, cada 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: aplicacion, error, dato, deja, dinero, dice, permit 
+ 	 Marginal FREX: error, mal, mala, actualizar, peor, ultima, mantenimiento 
+ 	 Marginal Lift: comis, correspondient, dejo, error, espero, eternidad, mantenimiento 
+ 	 Marginal Score: virtual, aplicacion, error, dato, mala, dice, mal 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

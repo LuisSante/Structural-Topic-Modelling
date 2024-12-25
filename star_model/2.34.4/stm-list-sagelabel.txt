@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: banco, ahora, mapear, hacer, app, pago, notificacion 
+ 	 Marginal FREX: ant, pago, mapear, ver, notificacion, podia, mapeo 
+ 	 Marginal Lift: aca, activado, afiliado, alerta, aparas, avanzar, cambio 
+ 	 Marginal Score: notificacion, mapear, pago, banco, ant, mapeo, ahora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: app, tarjeta, numero, dice, vez, momento, codigo 
+ 	 Marginal FREX: contraseña, tarjeta, pagar, demora, causa, sarcasmo, codigo 
+ 	 Marginal Lift: contraseña, adema, causa, colocar, contacto, decir, digito 
+ 	 Marginal Score: tarjeta, app, numero, pagar, causa, sarcasmo, contraseña 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: bcp, dato, dia, mala, llega, hace, celular 
+ 	 Marginal FREX: falla, histori, peor, actualizado, crediticio, debito, reconocimiento 
+ 	 Marginal Lift: actualizado, cobra, crediticio, debito, duda, efectivo, esper 
+ 	 Marginal Score: bcp, histori, dato, falla, crediticio, llega, celular 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: llave, mas, solo, error, quiero, favor, actualizar 
+ 	 Marginal FREX: atencion, recibida, pesimo, tard, funciona, abr, enojado 
+ 	 Marginal Lift: recibida, actualizarlo, enojado, wasap, atencion, cans, esperar 
+ 	 Marginal Score: llave, recibida, atencion, actualizar, mas, abr, pesimo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: puedo, sale, aplicacion, cuenta, pued, opcion, dni 
+ 	 Marginal FREX: opcion, pasa, abrir, privilegio, pued, solicitar, credito 
+ 	 Marginal Lift: abrirla, obtenido, acceso, administrador, denegado, privilegio, realiza 
+ 	 Marginal Score: puedo, sale, aplicacion, cuenta, opcion, pued, credito 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

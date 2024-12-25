@@ -1,0 +1,20 @@
+Topic 1 Top Words:
+ 	 Highest Prob: cuenta, dato, vece, cada, dispositivo, wifi, tenia 
+ 	 FREX: cuenta, wifi, tenia, cambia, falla, vece, molesto 
+ 	 Lift: cuenta, agregar, cambia, efectivo, fallando, funcionando, gran 
+ 	 Score: funcionando, cuenta, servicio, falla, tenia, vece, cada 
+Topic 2 Top Words:
+ 	 Highest Prob: ingresar, actualizar, ahora, deja, favor, entrar, celular 
+ 	 FREX: deja, ingresar, actualizar, instalar, celular, dia, ayer 
+ 	 Lift: deja, ingresa, llego, pudo, registro, darm, decepcionado 
+ 	 Score: ingresa, ingresar, deja, actualizar, administrador, favor, ahora 
+Topic 3 Top Words:
+ 	 Highest Prob: app, problema, abrir, denegado, mas, pasa, carga 
+ 	 FREX: acced, motivo, abrir, usuario, crear, tiempo, carga 
+ 	 Lift: acced, figura, motivo, automaticament, mapeo, paso, perdi 
+ 	 Score: utilizar, app, denegado, mas, problema, abrir, carga 
+Topic 4 Top Words:
+ 	 Highest Prob: llave, puedo, aplicacion, sale, actualizacion, pued, solo 
+ 	 FREX: internet, actualizacion, pued, aplicacion, sale, pesimo, despu 
+ 	 Lift: haber, mejor, molestia, noch, suena, descontado, hola 
+ 	 Score: puedo, haber, llave, actualizacion, pued, aplicacion, sale 

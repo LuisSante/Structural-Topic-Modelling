@@ -1,0 +1,25 @@
+Topic 1 Top Words:
+ 	 Highest Prob: llave, puedo, aplicacion, sale, app, problema, hace 
+ 	 FREX: puedo, aplicacion, mala, debe, problema, descargu, llave 
+ 	 Lift: negocio, cerrar, nombr, descargu, puedo, dema, debe 
+ 	 Score: puedo, llave, aplicacion, sale, app, mala, problema 
+Topic 2 Top Words:
+ 	 Highest Prob: cuenta, ingresar, deja, pesimo, celular, notificacion, crear 
+ 	 FREX: atencion, ingresar, recibida, enojada, ingreso, pesimo, clave 
+ 	 Lift: enojada, enojado, ingreso, teclado, atencion, recibida, clave 
+ 	 Score: atencion, recibida, ingresar, enojada, cuenta, pesimo, celular 
+Topic 3 Top Words:
+ 	 Highest Prob: entrar, mal, bien, solucion, salio, denegado, acceso 
+ 	 FREX: dispositivo, entrar, denegado, administrador, desinstal, identidad, seguridad 
+ 	 Lift: aplicacionno, avisar, desinstal, dieron, entra, fin, identidad 
+ 	 Score: entrar, mal, dispositivo, denegado, salio, bien, privilegio 
+Topic 4 Top Words:
+ 	 Highest Prob: ahora, actualizacion, numero, error, funciona, favor, ant 
+ 	 FREX: numero, ver, dar, respuesta, error, sole, gracia 
+ 	 Lift: apeaban, basura, completo, cualquier, dar, hola, mano 
+ 	 Score: numero, actualizacion, ahora, dinero, error, ver, gracia 
+Topic 5 Top Words:
+ 	 Highest Prob: dia, mas, usar, hacer, dni, pago, actualizar 
+ 	 FREX: sirv, pago, ayuda, insatisfecho, voy, falla, foto 
+ 	 Lift: ayuda, bloquea, confiabl, efectivo, falla, funcion, hizo 
+ 	 Score: dia, usar, sirv, pago, actualizar, insatisfecho, dni 

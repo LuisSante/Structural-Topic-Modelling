@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: pued, actualizacion, hacer, favor, persona, mal, funciona 
+ 	 Marginal FREX: persona, trist, aprobado, positivo, mapeo, insatisfecho, noch 
+ 	 Marginal Lift: quedo, aprobado, ayud, brindan, claro, comentario, consumo 
+ 	 Marginal Score: persona, pued, hacer, aprobado, positivo, actualizacion, trist 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, app, banco, ingresar, hora, tarjeta, descargar 
+ 	 Marginal FREX: banco, parec, tarjeta, ingresar, intentar, hora, ant 
+ 	 Marginal Lift: pudieran, seria, ahorro, buenaquiero, etc, fecha, imagen 
+ 	 Marginal Score: puedo, app, banco, ingresar, tarjeta, registrarm, hora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: llave, pesimo, dice, deja, permit, necesito, nunca 
+ 	 Marginal FREX: uso, registro, manera, codigo, retiro, permitido, rechazado 
+ 	 Marginal Lift: autenticidad, quisiera, uso, validacion, cobrando, deje, manera 
+ 	 Marginal Score: llave, dice, uso, rechazado, pesimo, foto, deja 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: aplicacion, sale, dia, problema, cuenta, dni, quiero 
+ 	 Marginal FREX: enojado, frustrado, aplicacion, quiero, pesima, error, entrar 
+ 	 Marginal Lift: frustrado, terribl, hablo, realidad, cansado, enojado, store 
+ 	 Marginal Score: aplicacion, sale, frustrado, enojado, dia, atencion, problema 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: actualizar, mas, dinero, ahora, pide, solo, sole 
+ 	 Marginal FREX: actualiza, actualizar, pide, semana, celular, llevo, dos 
+ 	 Marginal Lift: una, termina, actualiza, horror, descarga, version, semana 
+ 	 Marginal Score: actualizar, actualiza, mas, pide, recibida, ahora, llevo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

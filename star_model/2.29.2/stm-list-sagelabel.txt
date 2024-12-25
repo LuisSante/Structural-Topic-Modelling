@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: puedo, llave, problema, entrar, abrir, ahora, ocurrio 
+ 	 Marginal FREX: entrar, gracia, problema, nunca, respond, puedo, usar 
+ 	 Marginal Lift: gracia, nunca, baje, dentro, diganm, registrarm, sorpresa 
+ 	 Marginal Score: dentro, puedo, llave, entrar, problema, abrir, ocurrio 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: mas, favor, solo, dice, necesito, dni, intento 
+ 	 Marginal FREX: inconvenient, momento, favor, dni, necesito, llega, sel 
+ 	 Marginal Lift: asco, cambiar, cebada, contacto, darl, debido, escanear 
+ 	 Marginal Score: cebada, favor, mas, dni, solo, necesito, intento 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: error, mal, pued, dia, actualizar, dinero, permit 
+ 	 Marginal FREX: error, actualizar, hago, pesimo, ahi, deberian, desapruebo 
+ 	 Marginal Lift: ahi, error, actualizo, comentario, cosa, dale, deberian 
+ 	 Marginal Score: comentario, error, mal, actualizar, dia, dinero, pued 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: hacer, quiero, solucion, mapear, hace, aparec, cierr 
+ 	 Marginal FREX: solucion, sirv, poder, aparec, vuelva, mucha, sin 
+ 	 Marginal Lift: actualizarlo, administrador, bienrepent, cargando, confundido, contaba, deben 
+ 	 Marginal Score: cargando, solucion, hacer, mapear, quiero, hace, aparec 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: sale, aplicacion, app, ingresar, salio, cuenta, deja 
+ 	 Marginal FREX: aplicacion, funciona, vuelv, mensaj, banco, entra, frustrado 
+ 	 Marginal Lift: banco, mensaj, salir, siquiera, aplicacion, funciona, ayud 
+ 	 Marginal Score: solucionan, aplicacion, sale, app, ingresar, salio, cuenta 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

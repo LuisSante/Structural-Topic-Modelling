@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: app, sale, pued, aplicacion, cargando, ingresar, solo 
+ 	 FREX: app, sale, cargando, ingresar, solo, pued, aplicacion 
+ 	 Lift: app, cargando, ingresar, solo, sale, administrador, dispositivo 
+ 	 Score: ingresar, app, sale, solo, cargando, pued, administrador 
+Topic 2 Top Words:
+ 	 Highest Prob: puedo, instalar, llave, permit, carga, problema, solucionar 
+ 	 FREX: puedo, llave, carga, problema, solucionar, permit, instalar 
+ 	 Lift: carga, problema, puedo, solucionar, llave, entrar, permit 
+ 	 Score: puedo, llave, carga, problema, solucionar, entrar, permit 

@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: pued, cuenta, actualizacion, dice, quiero, numero, pesima 
+ 	 Marginal FREX: intento, cansado, tanto, ultima, anterior, registro, quiero 
+ 	 Marginal Lift: afiliars, agarra, anterior, apuro, ayudado, cansado, chever 
+ 	 Marginal Score: deseo, pued, cuenta, actualizacion, numero, dice, quiero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: mas, mala, pesimo, nunca, funciona, pago, permit 
+ 	 Marginal FREX: tarjeta, pago, respuesta, necesita, mala, recomiendo, malo 
+ 	 Marginal Lift: bienahora, coinciden, desarrollador, hacerlo, maldita, obviament, punto 
+ 	 Marginal Score: coinciden, mas, mala, nunca, pesimo, pago, funciona 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: aplicacion, llave, actualizar, dni, hacer, mal, error 
+ 	 Marginal FREX: actualizar, usar, aplicacion, aplicativo, gracia, servicio, dni 
+ 	 Marginal Lift: avanzar, frustradono, gracia, movil, ultimament, actualizar, algun 
+ 	 Marginal Score: muestra, aplicacion, llave, actualizar, dni, error, mal 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: app, sale, dinero, problema, mapear, mapeo, favor 
+ 	 Marginal FREX: dinero, problema, app, monto, favor, pagar, mapeo 
+ 	 Marginal Lift: intentando, busco, devuelvan, dinero, inmediato, monto, neutral 
+ 	 Marginal Score: neutral, app, sale, dinero, problema, mapeo, mapear 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: puedo, ahora, hace, atencion, persona, movimiento, recibida 
+ 	 Marginal FREX: puedo, atencion, persona, recibida, enojada, trist, movimiento 
+ 	 Marginal Lift: opinion, persona, recibida, trist, atencion, movimiento, puedo 
+ 	 Marginal Score: olvid, puedo, atencion, recibida, ahora, hace, persona 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

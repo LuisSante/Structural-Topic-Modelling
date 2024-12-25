@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: puedo, llave, sale, app, actualizacion, deja, ingresar 
+ 	 FREX: llave, ingresar, denegado, acceso, hacer, actualizar, pesimo 
+ 	 Lift: administrador, aparec, denegado, descontento, funciona, instalar, servicio 
+ 	 Score: llave, actualiza, puedo, denegado, acceso, ingresar, deja 
+Topic 2 Top Words:
+ 	 Highest Prob: aplicacion, ahora, quiero, queda, hora, peor, sale 
+ 	 FREX: aplicacion, ahora, quiero, hora, peor, ver, asi 
+ 	 Lift: hora, peor, aplicacion, ahora, apean, asco, asi 
+ 	 Score: aplicacion, claro, color, ahora, peor, quiero, hora 

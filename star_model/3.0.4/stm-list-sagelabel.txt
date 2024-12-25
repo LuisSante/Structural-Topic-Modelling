@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: ingresar, dato, ahora, ant, permit, dice, servicio 
+ 	 Marginal FREX: queda, pesimo, ant, ingresar, respuesta, vez, permit 
+ 	 Marginal Lift: algun, genera, gustaba, habra, pesimo, positivo, puro 
+ 	 Marginal Score: positivo, ingresar, ahora, dato, ant, permit, recibida 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: aplicacion, cuenta, rato, favor, version, falla, siempr 
+ 	 Marginal FREX: movil, mucha, basura, entra, internet, version, cuenta 
+ 	 Marginal Lift: cantidad, cargaba, cuelga, insatisfecho, luego, molesta, movil 
+ 	 Marginal Score: cuelga, aplicacion, cuenta, version, rato, favor, falla 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: actualizacion, ultima, pued, cada, deja, abrir, hacer 
+ 	 Marginal FREX: ser, abrir, enojada, aleatorio, mapeo, aparec, letra 
+ 	 Marginal Lift: agrada, colocar, confundido, incierto, mapeo, ser, tema 
+ 	 Marginal Score: respond, actualizacion, ultima, cada, deja, hacer, pued 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: app, mas, mapear, dia, funciona, horribl, quiero 
+ 	 Marginal FREX: mapear, contraseña, actualizar, bcp, funciona, poder, apean 
+ 	 Marginal Lift: actualiza, actualizan, actualizaron, apean, arregl, bcp, bloqueado 
+ 	 Marginal Score: casi, app, mapear, mas, dia, mensaj, actualizar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: llave, sale, puedo, error, problema, entrar, mal 
+ 	 Marginal FREX: salio, error, crear, asi, dan, problema, mal 
+ 	 Marginal Lift: banco, corto, crear, cree, dan, decepcion, desaparecio 
+ 	 Marginal Score: decepcion, llave, error, puedo, problema, sale, entrar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

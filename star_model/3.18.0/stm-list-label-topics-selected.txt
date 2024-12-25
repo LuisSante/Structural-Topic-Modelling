@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: puedo, mas, app, funciona, hacer, falla, ingresar 
+ 	 FREX: app, funciona, hacer, cada, puedo, abrir, sale 
+ 	 Lift: abrir, app, cada, cae, cierto, entiendo, funciona 
+ 	 Score: funciona, app, puedo, cada, cae, rato, hacer 
+Topic 2 Top Words:
+ 	 Highest Prob: llave, aplicacion, pued, entrar, favor, tiempo, cuenta 
+ 	 FREX: llave, aplicacion, pued, entrar, favor, tiempo, cuenta 
+ 	 Lift: aplicacion, entrar, favor, llave, pued, tiempo, actualizacion 
+ 	 Score: actualizacion, llave, aplicacion, cuenta, entrar, pued, favor 

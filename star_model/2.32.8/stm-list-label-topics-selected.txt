@@ -1,0 +1,25 @@
+Topic 1 Top Words:
+ 	 Highest Prob: cuenta, pasa, numero, opcion, cada, llevo, recarga 
+ 	 FREX: numero, cuenta, telefono, hice, asi, aun, opcion 
+ 	 Lift: activa, antiguo, aplicativono, aqui, cambia, conform, diciendom 
+ 	 Score: cuenta, numero, opcion, pasa, asi, dato, recarga 
+Topic 2 Top Words:
+ 	 Highest Prob: llave, sale, dice, dni, hacer, entrar, actualizar 
+ 	 FREX: privilegio, dispositivo, seguridad, ocurrio, ser, sole, obtenido 
+ 	 Lift: allan, descargado, incierto, privilegio, viendo, store, obtenido 
+ 	 Score: llave, sale, dice, hacer, entrar, actualizar, hora 
+Topic 3 Top Words:
+ 	 Highest Prob: app, problema, mas, saldo, permit, celular, hace 
+ 	 FREX: dinero, permit, saldo, ver, sistema, ape, suced 
+ 	 Lift: actualic, descuento, normal, samsung, suced, inici, transaccion 
+ 	 Score: app, problema, saldo, mas, permit, ver, celular 
+Topic 4 Top Words:
+ 	 Highest Prob: ingresar, quiero, crear, abrir, codigo, prestamo, necesito 
+ 	 FREX: atencion, enojado, recibida, trist, nunca, codigo, alguien 
+ 	 Lift: atencion, esperando, trist, adelant, alguien, avanza, ayud 
+ 	 Score: recibida, ingresar, atencion, quiero, enojada, codigo, abrir 
+Topic 5 Top Words:
+ 	 Highest Prob: puedo, aplicacion, pued, dia, solo, deja, vece 
+ 	 FREX: avanzar, aprobado, positivo, solo, frustradono, instalar, mapear 
+ 	 Lift: aprobado, deben, necesita, positivo, facial, sol, avanzar 
+ 	 Score: puedo, aplicacion, pued, aprobado, positivo, solo, dia 

@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: aplicacion, favor, dia, numero, respond, intent, enojado 
+ 	 Marginal FREX: frustrado, mapeo, registr, avanzar, descargu, frustradono, ahi 
+ 	 Marginal Lift: adema, cobra, confio, contest, ejemplo, erroneo, frustradono 
+ 	 Marginal Score: aplicacion, frustrado, enojado, favor, dia, numero, respond 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: error, hacer, pued, pesimo, registrarm, solucion, vez 
+ 	 Marginal FREX: pesimo, demasiado, servicio, estrella, vez, salio, problematico 
+ 	 Marginal Lift: cargar, efectivo, trist, amig, demasiado, envi, facil 
+ 	 Marginal Score: error, pesimo, pued, hacer, vez, problematico, carga 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, cuenta, problema, ahora, dni, pregunta, deja 
+ 	 Marginal FREX: pesima, respondi, entrar, cuenta, volver, dato, bloquean 
+ 	 Marginal Lift: bloquean, conexion, manera, perdio, plan, cual, vincular 
+ 	 Marginal Score: cuenta, app, pregunta, problema, deja, entrar, ahora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: puedo, llave, dice, quiero, dinero, tarjeta, codigo 
+ 	 Marginal FREX: atencion, recibida, enojada, mala, dinero, debe, tenia 
+ 	 Marginal Lift: actualizarla, algun, aser, atencion, contacto, denegado, dirigida 
+ 	 Marginal Score: recibida, puedo, enojada, llave, atencion, dinero, quiero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: sale, mas, ingresar, tard, clave, actualizar, mal 
+ 	 Marginal FREX: intentelo, mas, sale, ingresar, terminar, llevo, descargar 
+ 	 Marginal Lift: pedi, completo, intentelo, corrijan, huella, pesar, ponen 
+ 	 Marginal Score: sale, mas, ingresar, clave, tard, actualizar, intentelo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

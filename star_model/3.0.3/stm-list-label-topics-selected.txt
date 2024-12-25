@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: llave, actualizacion, problema, sale, favor, abrir, puedo 
+ 	 FREX: numero, bien, grand, ahora, app, error, horribl 
+ 	 Lift: numero, problema, adema, agrada, ahora, ant, app 
+ 	 Score: congela, llave, numero, actualizacion, bien, ver, problema 
+Topic 2 Top Words:
+ 	 Highest Prob: aplicacion, ingresar, dato, abr, despu, dice, celular 
+ 	 FREX: aplicacion, abr, dice, celular, funciona, despu, actualiza 
+ 	 Lift: aplicacion, abr, aplicativo, celular, dice, funciona, intent 
+ 	 Score: celular, aplicacion, abr, funciona, dice, despu, aplicativo 

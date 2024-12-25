@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: pued, problema, ahora, sin, permit, persona, plan 
+ 	 Marginal FREX: plan, pued, permit, sin, contraseña, enviar, buena 
+ 	 Marginal Lift: enviar, actualic, ayudar, buena, cambiar, contraseña, descontaron 
+ 	 Marginal Score: usado, pued, ahora, problema, sin, persona, permit 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, entrar, quiero, dice, celular, atencion, recibida 
+ 	 Marginal FREX: entrar, quiero, atencion, recibida, ayuda, enojado, tiempo 
+ 	 Marginal Lift: atencion, dice, recibida, asco, ayuda, completa, debo 
+ 	 Marginal Score: meno, puedo, recibida, entrar, atencion, enojado, quiero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: cuenta, deja, abrir, pide, numero, siempr, queda 
+ 	 Marginal FREX: siempr, verdad, actualizo, pide, gusta, recomiendo, pongo 
+ 	 Marginal Lift: actualizo, siempr, creando, desinstal, electronico, estancado, experiencia 
+ 	 Marginal Score: electronico, cuenta, abrir, pide, numero, siempr, deja 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: actualizar, mas, pesimo, dia, cada, solo, mapear 
+ 	 Marginal FREX: vez, pesima, mas, intentando, lento, actualizar, descargar 
+ 	 Marginal Lift: descarga, descargar, desear, etc, lento, molestia, peruano 
+ 	 Marginal Score: whatsapp, actualizar, mas, cada, dia, vez, pesimo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: llave, aplicacion, app, sale, actualizacion, hacer, error 
+ 	 Marginal FREX: app, dni, llave, solucion, prestamo, servicio, error 
+ 	 Marginal Lift: actualizado, cumpl, envian, falla, lamentablement, ponert, prestamo 
+ 	 Marginal Score: falla, llave, app, aplicacion, sale, favor, error 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

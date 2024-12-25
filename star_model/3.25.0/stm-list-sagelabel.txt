@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: app, entrar, dinero, ahora, pued, cada, usar 
+ 	 Marginal FREX: credito, serio, mala, ahora, pongo, rato, app 
+ 	 Marginal Lift: serio, aburr, cargar, constant, credito, dejar, desaparecio 
+ 	 Marginal Score: app, ahora, credito, entrar, serio, mala, dinero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, mas, atencion, quier, mapear, deja, sonido 
+ 	 Marginal FREX: atencion, sonido, aprobado, pesima, recibir, deberian, positivo 
+ 	 Marginal Lift: aprobado, pesima, positivo, atencion, dan, dentro, espero 
+ 	 Marginal Score: llave, mas, sonido, atencion, aprobado, positivo, pesima 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, aplicacion, celular, compat, actualizar, dice, dispositivo 
+ 	 Marginal FREX: quiero, dispositivo, puedo, compat, celular, abrir, hoy 
+ 	 Marginal Lift: antiguo, dejo, fabrica, jose, malpu, podia, quiero 
+ 	 Marginal Score: puedo, compat, celular, actualizar, dispositivo, aplicacion, quiero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: sale, problema, hacer, favor, funciona, mal, gracia 
+ 	 Marginal FREX: codigo, favor, hora, mal, despu, error, problema 
+ 	 Marginal Lift: codigo, escaneo, gasto, medio, nuevament, persist, steam 
+ 	 Marginal Score: favor, problema, hacer, codigo, error, funciona, mal 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: actualizacion, cuenta, ingresar, numero, pago, solo, vece 
+ 	 Marginal FREX: tarjeta, hace, movimiento, facial, impos, banco, ingresar 
+ 	 Marginal Lift: blanco, contraseña, correo, expelet, facial, genial, impos 
+ 	 Marginal Score: actualizacion, ingresar, numero, tarjeta, hace, movimiento, cuenta 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

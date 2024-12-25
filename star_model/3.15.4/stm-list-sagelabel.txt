@@ -1,0 +1,27 @@
+Topic 1: 
+ 	 Marginal Highest Prob: dia, pued, actualizar, mal, opcion, hacer, abrir 
+ 	 Marginal FREX: dia, pued, opcion, servicio, nuevo, actualiza, tiempo 
+ 	 Marginal Lift: nuevo, pued, servicio, actualiza, alguien, aviso, congela 
+ 	 Marginal Score: congela, pued, dia, mal, actualizar, opcion, servicio 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, aplicacion, puedo, sale, cuenta, vece, ingresar 
+ 	 Marginal FREX: puedo, vece, atencion, codigo, llega, solucion, llave 
+ 	 Marginal Lift: mucha, vece, abr, actualic, aparec, atencion, buscado 
+ 	 Marginal Score: mese, llave, puedo, recibida, atencion, sale, aplicacion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, mas, actualizacion, cada, deja, mapear, pago 
+ 	 Marginal FREX: app, mas, actualizacion, deja, error, momento, quier 
+ 	 Marginal Lift: quier, algun, ant, app, arreglar, arreglen, ayuda 
+ 	 Marginal Score: sms, app, mas, deja, actualizacion, cada, momento 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

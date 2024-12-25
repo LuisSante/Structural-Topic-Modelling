@@ -1,0 +1,10 @@
+Topic 1 Top Words:
+ 	 Highest Prob: aplicacion, puedo, instalar, pesimo, actualizar, app, llave 
+ 	 FREX: puedo, pesimo, actualizar, app, instalar, actualizacion, dinero 
+ 	 Lift: actualizar, app, instalar, mala, pesimo, puedo, queda 
+ 	 Score: queda, puedo, pesimo, usuario, actualizacion, dinero, app 
+Topic 2 Top Words:
+ 	 Highest Prob: dia, bcp, mapear, dice, problema, solo, asi 
+ 	 FREX: problema, solo, dia, bcp, asi, bloqueado, peru 
+ 	 Lift: asi, bloqueado, peru, poder, ant, bcp, dia 
+ 	 Score: bloqueado, problema, peru, poder, dia, solo, asi 

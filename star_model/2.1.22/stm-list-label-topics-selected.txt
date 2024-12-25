@@ -1,0 +1,25 @@
+Topic 1 Top Words:
+ 	 Highest Prob: dia, numero, hacer, registrarm, entrar, codigo, dato 
+ 	 FREX: trist, intento, varia, vece, momento, serio, dato 
+ 	 Lift: apuro, cambia, dolor, enviar, explicacion, pasado, podido 
+ 	 Score: trist, vece, registrarm, intento, codigo, dia, numero 
+Topic 2 Top Words:
+ 	 Highest Prob: dni, pued, mas, quiero, pide, foto, actualizacion 
+ 	 FREX: recibida, selfi, deja, cada, enojada, pasa, pued 
+ 	 Lift: actualizarsin, enojada, indican, recibida, siento, cuanta, crea 
+ 	 Score: dni, pued, recibida, mas, atencion, enojada, pide 
+Topic 3 Top Words:
+ 	 Highest Prob: llave, aplicacion, problema, mapear, error, mismo, solucion 
+ 	 FREX: cansado, estresado, dan, vuelv, tener, confundido, saldo 
+ 	 Lift: soport, actual, cansado, causa, cierra, comunicars, confundido 
+ 	 Score: aplicacion, cansado, estresado, llave, problema, confundido, dan 
+Topic 4 Top Words:
+ 	 Highest Prob: sale, dice, ahora, solo, sirv, enojado, necesito 
+ 	 FREX: sirv, situacion, solo, asco, todavia, aplicativo, frustrada 
+ 	 Lift: acaba, cebada, contestan, creyo, cumpleaño, definitivament, frustrada 
+ 	 Score: sale, ahora, enojado, sirv, dice, solo, frustrado 
+Topic 5 Top Words:
+ 	 Highest Prob: puedo, actualizar, app, cuenta, ingresar, crear, pesimo 
+ 	 FREX: actualizar, puedo, abrir, version, carga, app, pesimo 
+ 	 Lift: actualizada, gusta, movimiento, utilizo, version, permiten, complicado 
+ 	 Score: puedo, actualizar, app, cuenta, abrir, pesimo, ingresar 

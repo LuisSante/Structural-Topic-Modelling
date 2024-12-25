@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: cuenta, pasa, numero, opcion, cada, llevo, recarga 
+ 	 Marginal FREX: numero, cuenta, telefono, hice, asi, aun, opcion 
+ 	 Marginal Lift: activa, antiguo, aplicativono, aqui, cambia, conform, diciendom 
+ 	 Marginal Score: cuenta, numero, opcion, pasa, asi, dato, recarga 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: llave, sale, dice, dni, hacer, entrar, actualizar 
+ 	 Marginal FREX: privilegio, dispositivo, seguridad, ocurrio, ser, sole, obtenido 
+ 	 Marginal Lift: allan, descargado, incierto, privilegio, viendo, store, obtenido 
+ 	 Marginal Score: llave, sale, dice, hacer, entrar, actualizar, hora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: app, problema, mas, saldo, permit, celular, hace 
+ 	 Marginal FREX: dinero, permit, saldo, ver, sistema, ape, suced 
+ 	 Marginal Lift: actualic, descuento, normal, samsung, suced, inici, transaccion 
+ 	 Marginal Score: app, problema, saldo, mas, permit, ver, celular 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: ingresar, quiero, crear, abrir, codigo, prestamo, necesito 
+ 	 Marginal FREX: atencion, enojado, recibida, trist, nunca, codigo, alguien 
+ 	 Marginal Lift: atencion, esperando, trist, adelant, alguien, avanza, ayud 
+ 	 Marginal Score: recibida, ingresar, atencion, quiero, enojada, codigo, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: puedo, aplicacion, pued, dia, solo, deja, vece 
+ 	 Marginal FREX: avanzar, aprobado, positivo, solo, frustradono, instalar, mapear 
+ 	 Marginal Lift: aprobado, deben, necesita, positivo, facial, sol, avanzar 
+ 	 Marginal Score: puedo, aplicacion, pued, aprobado, positivo, solo, dia 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

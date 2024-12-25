@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: llave, actualizacion, ahora, mal, ultima, funciona, salio 
+ 	 Marginal FREX: ultima, funcionar, deberian, quier, actualizacion, funciona, cambian 
+ 	 Marginal Lift: adema, ape, aqui, cambian, deberian, delincuent, diciendo 
+ 	 Marginal Score: llave, actualizacion, ultima, funciona, mal, quier, nombr 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: mas, dinero, opcion, siempr, favor, nunca, pesima 
+ 	 Marginal FREX: dinero, cantidad, sacar, deberia, pagar, trist, tiempo 
+ 	 Marginal Lift: abro, acabo, bloquearon, cantidad, chever, cobro, deberia 
+ 	 Marginal Score: dinero, mas, cantidad, deberia, pago, part, trist 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: cuenta, ingresar, sale, quiero, numero, administrador, privilegio 
+ 	 Marginal FREX: administrador, acceso, atencion, recibida, enojado, denegado, obtenido 
+ 	 Marginal Lift: denegado, codigo, correo, encuentro, enojada, obtenido, piden 
+ 	 Marginal Score: atencion, recibida, acceso, administrador, sale, ingresar, enojado 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: puedo, app, aplicacion, deja, abrir, crear, entrar 
+ 	 Marginal FREX: abrir, bien, instalar, funcionando, virus, carga, puedo 
+ 	 Marginal Lift: abrir, ayudaba, bien, cierra, contacto, descargar, disculp 
+ 	 Marginal Score: puedo, app, abrir, aplicacion, instalar, crear, entrar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: pued, actualizar, pesimo, problema, dice, cada, aparec 
+ 	 Marginal FREX: pide, pesimo, actualic, actualizar, robot, actualiza, pued 
+ 	 Marginal Lift: continua, cree, lament, robot, pide, actualiza, luego 
+ 	 Marginal Score: actualizar, pide, pesimo, dice, cada, robot, sigu 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

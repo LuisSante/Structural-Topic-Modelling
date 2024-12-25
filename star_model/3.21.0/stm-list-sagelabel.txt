@@ -1,0 +1,45 @@
+Topic 1: 
+ 	 Marginal Highest Prob: puedo, problema, ingresar, funciona, cuenta, solucion, mal 
+ 	 Marginal FREX: buena, puedo, carga, demora, quisiera, saber, ingresar 
+ 	 Marginal Lift: buena, debo, demora, desarrollador, descargu, desinstalar, dos 
+ 	 Marginal Score: puedo, ingresar, problema, funciona, buena, mal, carga 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: mas, entrar, cada, pued, solo, permit, favor 
+ 	 Marginal FREX: respuesta, mas, desapruebo, trist, insatisfecho, necesita, queda 
+ 	 Marginal Lift: foto, intentarlo, media, solucionar, adema, coge, congelado 
+ 	 Marginal Score: mas, desapruebo, respuesta, cada, pued, entrar, mala 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: aplicacion, app, error, celular, hacer, dinero, ahora 
+ 	 Marginal FREX: dinero, comprar, peor, celular, bien, sirv, fallando 
+ 	 Marginal Lift: comprar, apena, asta, banca, dieron, etc, facil 
+ 	 Marginal Score: aplicacion, app, dinero, celular, error, comprar, pago 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: sale, actualizacion, vece, porqueria, abrir, aplicativo, hoy 
+ 	 Marginal FREX: aplicativo, atencion, dato, recibida, internet, contraseña, ant 
+ 	 Marginal Lift: recibida, agent, atencion, codigo, correcta, creo, enojado 
+ 	 Marginal Score: sale, actualizacion, recibida, atencion, enojado, aplicativo, abrir 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: llave, deja, mapear, rato, numero, actualizar, ayuda 
+ 	 Marginal FREX: deja, opcion, inconvenient, falta, llave, crear, numero 
+ 	 Marginal Lift: dejar, justo, empieza, colombia, constantement, buen, esperar 
+ 	 Marginal Score: llave, deja, mapear, ayuda, numero, rato, opcion 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

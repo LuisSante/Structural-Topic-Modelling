@@ -1,0 +1,15 @@
+Topic 1 Top Words:
+ 	 Highest Prob: llave, aplicacion, pago, sin, saldo, hace, deja 
+ 	 FREX: saldo, deja, paso, numero, aparec, respond, demora 
+ 	 Lift: aparec, cambiar, facial, inicio, intenta, paso, plata 
+ 	 Score: llave, aplicacion, respond, saldo, deja, paso, pago 
+Topic 2 Top Words:
+ 	 Highest Prob: mas, sale, app, hacer, entrar, mapear, abrir 
+ 	 FREX: ver, lento, creo, sistema, entrar, servicio, ser 
+ 	 Lift: entra, funcionamiento, giro, vuelto, sistema, creo, hago 
+ 	 Score: mas, hacer, entrar, ver, ser, lento, sistema 
+Topic 3 Top Words:
+ 	 Highest Prob: puedo, pued, cuenta, favor, actualizacion, dinero, crear 
+ 	 FREX: reconoc, llevo, favor, funciona, cierra, carnet, extranjeria 
+ 	 Lift: abro, actualizo, carnet, esperando, estan, extranjeria, llevo 
+ 	 Score: puedo, pued, favor, crear, inconvenient, funciona, ingresar 
