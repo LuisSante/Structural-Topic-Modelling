@@ -1,44 +1,89 @@
 Topic 1: 
- 	 Marginal Highest Prob: llave, aplicacion, cuenta, problema, deja, permit, sirv 
- 	 Marginal FREX: sirv, ultima, carga, aplicacion, avanzar, frustradono, recuperar 
- 	 Marginal Lift: avanzar, frustradono, cansado, tenerla, dieran, cebada, seña 
- 	 Marginal Score: aplicacion, llave, cuenta, deja, problema, sirv, recibida 
+ 	 Marginal Highest Prob: puedo, pesimo, dinero, quiero, privilegio, mala, cada 
+ 	 Marginal FREX: acceso, situacion, mala, utilizado, dinero, denegado, frustrada 
+ 	 Marginal Lift: masculino, situacion, asimismo, celu, enviaron, frustrada, molesto 
+ 	 Marginal Score: puedo, privilegio, pesimo, dinero, mala, acceso, denegado 
  
  	 Topic Kappa:  
  	 Kappa with Baseline:  
  
 Topic 2: 
- 	 Marginal Highest Prob: puedo, dia, ahora, error, entrar, hace, mal 
- 	 Marginal FREX: hace, siempr, mala, mal, acced, ahora, horribl 
- 	 Marginal Lift: tapiar, vas, tomar, nacion, breve, engorroso, descarga 
- 	 Marginal Score: puedo, dia, ahora, entrar, error, hace, mal 
+ 	 Marginal Highest Prob: app, pued, problema, dni, funciona, actualizacion, siempr 
+ 	 Marginal FREX: funciona, app, usarla, dni, caso, actualizacion, reconoc 
+ 	 Marginal Lift: actualicen, bbva, pandemia, registrart, repent, usandola, usarla 
+ 	 Marginal Score: app, problema, funciona, pued, dni, actualizacion, siempr 
  
  	 Topic Kappa:  
  	 Kappa with Baseline:  
  
 Topic 3: 
- 	 Marginal Highest Prob: app, sale, dice, pesimo, pesima, mapear, hacer 
- 	 Marginal FREX: trist, app, decepcionado, pesima, situacion, pesimo, quiero 
- 	 Marginal Lift: frustrada, trist, decepcionado, directament, mejoramiento, problematico, recuerda 
- 	 Marginal Score: app, sale, pesima, pesimo, mapear, decepcionado, trist 
+ 	 Marginal Highest Prob: cuenta, dice, administrador, permit, actualizar, crear, dispositivo 
+ 	 Marginal FREX: crear, codigo, acced, falla, dice, robot, malisimo 
+ 	 Marginal Lift: corrijan, apelar, corta, llegu, quiso, tenerlo, crear 
+ 	 Marginal Score: cuenta, dice, administrador, crear, permit, dispositivo, actualizar 
  
  	 Topic Kappa:  
  	 Kappa with Baseline:  
  
 Topic 4: 
- 	 Marginal Highest Prob: dni, dinero, administrador, funciona, privilegio, numero, ser 
- 	 Marginal FREX: ser, seguridad, utilizado, obtenido, reconoc, administrador, indiferent 
- 	 Marginal Lift: haria, reclam, utilizado, venta, apearm, caduco, delantera 
- 	 Marginal Score: dinero, administrador, ser, dni, indiferent, privilegio, funciona 
+ 	 Marginal Highest Prob: aplicacion, pesima, mal, sirv, respond, dato, bien 
+ 	 Marginal FREX: pesima, tanto, sirv, mal, cansado, aplicacion, ingresa 
+ 	 Marginal Lift: beneficio, cortan, practicament, reclam, apuro, debio, laguna 
+ 	 Marginal Score: aplicacion, pesima, sirv, mal, respond, dato, ant 
  
  	 Topic Kappa:  
  	 Kappa with Baseline:  
  
 Topic 5: 
- 	 Marginal Highest Prob: pued, ingresar, mas, favor, solo, tard, registrarm 
- 	 Marginal FREX: llega, positivo, verificacion, aprobado, total, mas, equidad 
- 	 Marginal Lift: dirigida, femenina, lamentablement, mujer, peru, positivo, robado 
- 	 Marginal Score: mas, ingresar, pued, favor, registrarm, actualizar, tard 
+ 	 Marginal Highest Prob: sale, deja, intento, peor, usar, pregunta, momento 
+ 	 Marginal FREX: deja, peor, positivo, pregunta, intento, contraseña, aprobado 
+ 	 Marginal Lift: finalizar, positivo, tape, aprobado, cuatro, estupida, modelo 
+ 	 Marginal Score: sale, deja, intento, peor, aprobado, pregunta, momento 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 6: 
+ 	 Marginal Highest Prob: llave, ahora, solucion, abrir, llevo, intent, banco 
+ 	 Marginal FREX: solucion, ahora, aplicativo, banco, abrir, malo, llave 
+ 	 Marginal Lift: desagrad, dirigida, femenina, finalidad, funcionamiento, inscribi, mujer 
+ 	 Marginal Score: llave, ahora, solucion, abrir, banco, intent, llevo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 7: 
+ 	 Marginal Highest Prob: mas, hace, numero, servicio, tard, sin, vez 
+ 	 Marginal FREX: mas, tard, lento, mejorar, servicio, arreglen, vez 
+ 	 Marginal Lift: incierto, peru, acaso, ape, burla, confundido, constant 
+ 	 Marginal Score: mas, hace, tard, numero, servicio, vez, sin 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 8: 
+ 	 Marginal Highest Prob: entrar, mapear, favor, vece, celular, poder, pide 
+ 	 Marginal FREX: trist, decepcionado, vece, celular, causa, medio, mapear 
+ 	 Marginal Lift: aunqu, comprarm, venta, trist, afiliart, causa, centro 
+ 	 Marginal Score: mapear, entrar, trist, decepcionado, favor, vece, celular 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 9: 
+ 	 Marginal Highest Prob: error, atencion, porqueria, hora, bcp, registrarm, tiempo 
+ 	 Marginal FREX: atencion, recibida, enojada, enojado, total, porqueria, bloqueo 
+ 	 Marginal Lift: atencion, atend, bloqueo, conclus, enojado, enviado, escan 
+ 	 Marginal Score: recibida, atencion, enojada, enojado, error, porqueria, registrarm 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 10: 
+ 	 Marginal Highest Prob: ingresar, dia, hacer, clave, solo, necesito, pago 
+ 	 Marginal FREX: clave, sole, ayuda, teclado, pueden, pago, dos 
+ 	 Marginal Lift: ingresado, miedo, pedir, tapiar, apearm, apeno, brinda 
+ 	 Marginal Score: dia, ingresar, hacer, clave, sole, ayuda, necesito 
  
  	 Topic Kappa:  
  	 Kappa with Baseline:  

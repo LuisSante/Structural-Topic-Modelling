@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: mal, salio, hace, solo, dos, frustrado, mensaj 
+ 	 FREX: salio, mal, vuelv, pasando, transferencia, usuario, solo 
+ 	 Lift: diario, salio, bienahora, condicion, confi, decepciono, desistal 
+ 	 Score: mal, salio, recomiendo, solo, hace, frustrado, vuelv 
+Topic 7 Top Words:
+ 	 Highest Prob: puedo, hacer, ahora, mantenimiento, dice, registrarm, intento 
+ 	 FREX: desinstal, puedo, registrarm, dato, hacer, urgent, hago 
+ 	 Lift: apuro, completar, inicio, obten, rechaza, terminar, desinstal 
+ 	 Score: puedo, hacer, ahora, apuro, mantenimiento, registrarm, dato 
+Topic 10 Top Words:
+ 	 Highest Prob: app, cuenta, pued, quiero, codigo, intent, reconoc 
+ 	 FREX: verificacion, pued, reconocimiento, solucionar, facial, permit, reconoc 
+ 	 Lift: bastant, logra, desafilar, habria, notifica, princip, verificacion 
+ 	 Score: app, cuenta, pued, logra, quiero, codigo, reconoc 

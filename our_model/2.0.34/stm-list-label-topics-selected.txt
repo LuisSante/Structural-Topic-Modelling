@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: dice, hacer, atencion, servicio, pregunta, acceso, hora 
+ 	 FREX: enojada, pregunta, decepcionado, atencion, fallando, malo, respondi 
+ 	 Lift: prueba, actualizada, bastant, cuatro, decepcionado, digital, enojada 
+ 	 Score: atencion, dice, enojada, decepcionado, pregunta, hacer, servicio 
+Topic 7 Top Words:
+ 	 Highest Prob: pesimo, administrador, privilegio, mala, clave, usar, asi 
+ 	 FREX: codigo, obtenido, mensaj, usar, equipo, llega, version 
+ 	 Lift: bueno, calificacion, codigo, cortan, cta, llena, saca 
+ 	 Score: pesimo, privilegio, administrador, programa, mala, clave, dispositivo 
+Topic 10 Top Words:
+ 	 Highest Prob: llave, ahora, deja, favor, respond, actualizacion, necesito 
+ 	 FREX: situacion, frustrada, actualizacion, respond, confundido, deja, diario 
+ 	 Lift: afiliar, arregl, asimismo, brevedad, confundido, constantement, desagrad 
+ 	 Score: llave, deja, ahora, constantement, favor, recibida, respond 

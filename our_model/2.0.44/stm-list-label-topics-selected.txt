@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: aplicacion, aparec, banco, solo, poder, sole, sistema 
+ 	 FREX: funcion, perder, sole, limit, urgencia, soport, aparec 
+ 	 Lift: señal, agent, cerro, crea, ocupa, perder, permitio 
+ 	 Score: aplicacion, aparec, sole, solo, banco, poder, sistema 
+Topic 7 Top Words:
+ 	 Highest Prob: app, pesimo, actualiza, atencion, pasa, enojado, bcp 
+ 	 FREX: atencion, enojado, frustrado, asco, solucionan, actualiza, tiempo 
+ 	 Lift: apea, crean, enfocar, identificarm, lugar, palabra, pandemia 
+ 	 Score: app, atencion, pesimo, enojado, frustrado, actualiza, pasa 
+Topic 10 Top Words:
+ 	 Highest Prob: puedo, llave, problema, deja, entrar, hacer, mala 
+ 	 FREX: acced, puedo, entrar, mala, mapear, usarla, problema 
+ 	 Lift: acced, appmanda, cajero, conectars, laguna, normalment, queremo 
+ 	 Score: puedo, llave, problema, deja, entrar, mala, hacer 

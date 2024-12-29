@@ -1,25 +1,15 @@
-Topic 1 Top Words:
- 	 Highest Prob: mas, pued, pide, hacer, mala, mal, play 
- 	 FREX: mala, store, actualiza, atencion, recibida, enojada, lento 
- 	 Lift: actualizarvoy, android, anteriorment, antiguo, celu, dos, haciendo 
- 	 Score: mas, pued, mala, pide, hacer, store, actualiza 
-Topic 2 Top Words:
- 	 Highest Prob: app, actualizacion, cuenta, deja, tard, dinero, respond 
- 	 FREX: cuenta, dni, sirv, piden, aun, debe, tard 
- 	 Lift: actualizada, actualizoigu, actualment, agrad, appingreso, biendia, cayo 
- 	 Score: app, actualizacion, cuenta, deja, tard, dinero, dni 
 Topic 3 Top Words:
- 	 Highest Prob: ingresar, favor, vece, funciona, solucion, cada, siempr 
- 	 FREX: ingresar, solucion, tarjeta, paso, contraseña, saldo, malo 
- 	 Lift: acepto, apea, arregla, crean, digit, dolar, equivoca 
- 	 Score: ingresar, funciona, vece, solucion, favor, siempr, tarjeta 
-Topic 4 Top Words:
- 	 Highest Prob: actualizar, sale, ahora, permit, error, pesimo, opcion 
- 	 FREX: sale, opcion, nueva, manda, clave, intentando, sole 
- 	 Lift: casa, grand, perjudica, señor, siquiera, solicita, vaina 
- 	 Score: actualizar, chever, sale, permit, ahora, opcion, pesimo 
-Topic 5 Top Words:
- 	 Highest Prob: puedo, llave, aplicacion, dice, problema, entrar, abrir 
- 	 FREX: entrar, hago, mensaj, nuevament, deberia, falla, puedo 
- 	 Lift: avanzar, cancelar, comentario, deficient, denuedo, desastr, email 
- 	 Score: puedo, aplicacion, llave, entrar, problema, abrir, dia 
+ 	 Highest Prob: aplicacion, cuenta, quiero, opcion, dni, pesima, hace 
+ 	 FREX: usar, pregunta, opinion, neutra, dni, avanzar, impedi 
+ 	 Lift: avanzar, breve, cara, impedi, neutra, pregunta, abandona 
+ 	 Score: aplicacion, cuenta, quiero, pesima, usar, dni, opcion 
+Topic 7 Top Words:
+ 	 Highest Prob: actualizacion, hacer, mapear, mismo, nueva, hora, ninguna 
+ 	 FREX: nueva, algun, mismo, retirar, envia, cae, instalado 
+ 	 Lift: anoch, apea, encuentro, llevar, partir, pienso, verdadero 
+ 	 Score: actualizacion, hacer, nueva, mapear, mismo, ninguna, hora 
+Topic 10 Top Words:
+ 	 Highest Prob: dice, problema, vece, respond, vez, intento, cada 
+ 	 FREX: basura, sole, validar, vece, tape, servicio, cada 
+ 	 Lift: ave, carro, descuentan, llegu, millon, queremo, sala 
+ 	 Score: problema, dice, vece, respond, vez, intento, cada 

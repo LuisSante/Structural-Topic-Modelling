@@ -1,25 +1,15 @@
-Topic 1 Top Words:
- 	 Highest Prob: puedo, mas, dia, actualizar, mapear, permit, crear 
- 	 FREX: actualizar, carga, puedo, pesima, permit, hora, dia 
- 	 Lift: descargarlo, paga, teclado, queriendo, mapeen, equivocacion, bono 
- 	 Score: puedo, actualizar, dia, mapear, mas, permit, carga 
-Topic 2 Top Words:
- 	 Highest Prob: sale, dni, error, saldo, favor, opcion, celular 
- 	 FREX: error, opcion, falla, sale, respond, saldo, usando 
- 	 Lift: blanco, digo, confundido, enfocado, incierto, mostrar, noma 
- 	 Score: sale, error, dni, opcion, saldo, favor, respond 
 Topic 3 Top Words:
- 	 Highest Prob: cuenta, dinero, hace, dice, ingresar, numero, solucion 
- 	 FREX: dice, frustrado, enojado, cuenta, temporalment, dato, monto 
- 	 Lift: apearon, bodega, causa, centro, comio, llamo, madr 
- 	 Score: cuenta, dice, numero, dinero, hace, sole, solucion 
-Topic 4 Top Words:
- 	 Highest Prob: aplicacion, app, problema, hacer, quiero, funciona, banco 
- 	 FREX: respuesta, desapruebo, codigo, llega, trabajo, app, requier 
- 	 Lift: maravilla, mod, completo, dado, devolucion, hacerm, mujer 
- 	 Score: app, aplicacion, hacer, problema, respuesta, quiero, mal 
-Topic 5 Top Words:
- 	 Highest Prob: llave, pued, ahora, pesimo, solo, nunca, asi 
- 	 FREX: verdad, pesimo, sigu, llave, descargar, demora, pued 
- 	 Lift: ninguno, amoroso, cariñoso, rede, enojada, indignacion, plata 
- 	 Score: llave, pued, pesimo, solo, ahora, actualiza, descargar 
+ 	 Highest Prob: actualizar, quiero, ingresar, crear, llega, codigo, intento 
+ 	 FREX: actualizar, desapruebo, sms, codigo, telefono, envia, intento 
+ 	 Lift: pudo, store, actualizar, ator, bob, bono, congelado 
+ 	 Score: actualizar, codigo, crear, quiero, llega, respuesta, intento 
+Topic 7 Top Words:
+ 	 Highest Prob: dni, error, mensaj, cada, foto, abrir, reconoc 
+ 	 FREX: reconoc, electronico, enojado, recibida, frustrado, tomar, impresionado 
+ 	 Lift: adelant, agradecido, atra, azul, cayendo, publicar, trata 
+ 	 Score: dni, electronico, foto, reconoc, enojado, error, recibida 
+Topic 10 Top Words:
+ 	 Highest Prob: puedo, sale, problema, funciona, saldo, nunca, ver 
+ 	 FREX: funciona, puedo, volvi, ver, problema, tapiar, desinstal 
+ 	 Lift: mod, tapiar, llegando, maravilla, instalado, funciona, volvi 
+ 	 Score: puedo, sale, problema, funciona, saldo, nunca, ver 
