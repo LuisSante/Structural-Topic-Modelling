@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: cuenta, dia, actualizacion, pued, ser, atencion, dos 
+ 	 FREX: opinion, neutral, recibida, enojado, neutra, enojada, curioso 
+ 	 Lift: aaa, dinerono, diqu, enojada, enojado, excesivo, fregaron 
+ 	 Score: cuenta, actualizacion, pued, dia, neutral, atencion, opinion 
+Topic 7 Top Words:
+ 	 Highest Prob: dice, solucion, tard, hago, hora, salio, intent 
+ 	 FREX: varia, intentarlo, verificacion, sido, ocurrio, bloqueado, intentelo 
+ 	 Lift: agencia, apareciendo, archivo, comieron, demoraba, descargando, descuenta 
+ 	 Score: dice, tard, intent, salio, sigu, mensaj, varia 
+Topic 10 Top Words:
+ 	 Highest Prob: sale, mas, mal, mapear, vece, dinero, entrar 
+ 	 FREX: mal, mejoro, arreglen, mapear, dinero, mas, entrar 
+ 	 Lift: desafilado, ritmo, somero, mejoro, hermoso, oportuna, gol 
+ 	 Score: mas, sale, mal, vece, mapear, dinero, entrar 

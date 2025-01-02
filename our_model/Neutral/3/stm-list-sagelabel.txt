@@ -1,0 +1,90 @@
+Topic 1: 
+ 	 Marginal Highest Prob: bien, bueno, siempr, mejor, ant, sole, internet 
+ 	 Marginal FREX: sole, mod, justo, elegant, instant, odei, codicioso 
+ 	 Marginal Lift: agradecida, ala, amen, anim, base, bolsillo, borrando 
+ 	 Marginal Score: bien, sole, bueno, siempr, mejor, internet, ant 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: cuenta, ahora, apuro, hace, recarga, saca, godo 
+ 	 Marginal FREX: godo, efectiva, opinion, good, magnifico, neutral, ayudenm 
+ 	 Marginal Lift: card, cebada, crediticio, cree, ganar, gift, good 
+ 	 Marginal Score: cuenta, apuro, ahora, godo, saca, recarga, compat 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: numero, deja, ver, nueva, dni, solo, clave 
+ 	 Marginal FREX: deja, ver, error, funcionar, carga, contraseña, blanco 
+ 	 Marginal Lift: aleatorio, alli, anterior, apellido, appno, bloquear, cabeza 
+ 	 Marginal Score: numero, deja, nueva, clave, ver, contraseña, dni 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: buena, mas, dia, solo, dinero, problema, vez 
+ 	 Marginal FREX: madrugada, primera, caida, demoran, tal, dispon, dificil 
+ 	 Marginal Lift: apeado, colmo, interbank, llevar, mexico, roba, adelant 
+ 	 Marginal Score: mas, buena, dinero, solo, vez, dia, problema 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: hacer, pago, rapido, tarjeta, tambien, banco, compra 
+ 	 Marginal FREX: banco, comis, cola, puedan, billetera, transferencia, medio 
+ 	 Marginal Lift: agrada, agradec, ahorrar, apoyo, bacano, bancaria, basan 
+ 	 Marginal Score: pago, hacer, banco, rapido, cola, compra, tarjeta 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 6: 
+ 	 Marginal Highest Prob: aplicacion, mucha, servicio, vece, abrir, pagar, dice 
+ 	 Marginal FREX: sirv, satisfecho, recibida, enojado, utilidad, aliviado, nervioso 
+ 	 Marginal Lift: aprieto, beber, comerciant, corta, dando, desastr, god 
+ 	 Marginal Score: aplicacion, servicio, mucha, pagar, vece, satisfecho, sirv 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 7: 
+ 	 Marginal Highest Prob: llave, celular, gracia, momento, aplicativo, quier, saldo 
+ 	 Marginal FREX: suena, mejorando, esperanzado, apean, buenano, aplicativo, sonido 
+ 	 Marginal Lift: llamo, sonar, apean, aprend, aprovech, bello, bienno 
+ 	 Marginal Score: llave, celular, gracia, sonido, aplicativo, notificacion, suena 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 8: 
+ 	 Marginal Highest Prob: funciona, puedo, sale, maximo, quiero, mal, pued 
+ 	 Marginal FREX: maximo, mal, funciona, quiero, pasa, necesito, abr 
+ 	 Marginal Lift: aumenten, quero, segun, mal, maximo, huy, encantan 
+ 	 Marginal Score: funciona, puedo, maximo, mal, quiero, sale, necesito 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 9: 
+ 	 Marginal Highest Prob: actualizacion, favor, ayuda, permit, actualizar, cada, ingresar 
+ 	 Marginal FREX: actualizar, cada, rato, actualiza, privilegio, aburr, causa 
+ 	 Marginal Lift: envia, sarcasmo, wasap, actualiza, actualizacionno, aplicacionahora, ayudo 
+ 	 Marginal Score: actualizacion, permit, cada, actualizar, ayuda, favor, ingresar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 10: 
+ 	 Marginal Highest Prob: app, sin, opcion, tiempo, asi, poder, tener 
+ 	 Marginal FREX: sin, poder, prestamo, app, demasiado, tiempo, falso 
+ 	 Marginal Lift: ahorra, plano, termino, abril, agilizar, apero, aplicar 
+ 	 Marginal Score: app, sin, tiempo, opcion, poder, prestamo, bcp 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

@@ -1,0 +1,54 @@
+Topic 1: 
+ 	 Marginal Highest Prob: app, mal, favor, vece, pago, mejor, sin 
+ 	 Marginal FREX: mejor, varia, verdad, vece, app, descargar, pago 
+ 	 Marginal Lift: mejor, amigo, insegura, necesita, ninguna, operacion, plan 
+ 	 Marginal Score: app, vece, mal, favor, mejor, verdad, plan 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: mas, funciona, asi, hace, banco, pide, alguien 
+ 	 Marginal FREX: funciona, banco, trabajo, meno, opinion, regular, godo 
+ 	 Marginal Lift: trabajo, acept, ant, aqui, cantidad, casi, desarrollador 
+ 	 Marginal Score: funciona, mas, banco, trabajo, opinion, regular, meno 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: puedo, dice, hora, vez, numero, ahora, pregunta 
+ 	 Marginal FREX: hora, pregunta, registrarm, descargu, vez, intent, numero 
+ 	 Marginal Lift: descargu, hora, bloqueo, conocerm, continuar, desinstal, eliminar 
+ 	 Marginal Score: puedo, registrarm, pregunta, dice, hora, numero, vez 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: llave, actualizar, bien, buena, ahora, pued, actualizacion 
+ 	 Marginal FREX: actualizacion, actualizar, funcionar, mucha, demasiado, equipo, play 
+ 	 Marginal Lift: funcionar, actualizacion, demasiado, demora, entro, equipo, estrellita 
+ 	 Marginal Score: llave, actualizar, actualizacion, buena, bien, ahora, funcionar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: aplicacion, cuenta, permit, ingresar, ayuda, clave, necesito 
+ 	 Marginal FREX: clave, entrar, necesito, ayuda, dato, despu, estrella 
+ 	 Marginal Lift: clave, creando, das, despu, entrar, envia, estrella 
+ 	 Marginal Score: cuenta, aplicacion, ingresar, necesito, permit, dato, clave 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 6: 
+ 	 Marginal Highest Prob: sale, quiero, opcion, deja, esperanzado, trist, nuevo 
+ 	 Marginal FREX: esperanzado, trist, bueno, opcion, sale, momento, saca 
+ 	 Marginal Lift: afiliarm, denunciada, desinstalo, jose, modo, principio, saca 
+ 	 Marginal Score: sale, esperanzado, trist, opcion, sido, quiero, deja 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

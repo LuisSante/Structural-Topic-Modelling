@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: aplicacion, abrir, dice, mapear, demora, pesima, necesito 
+ 	 FREX: demora, pesima, pantalla, malisimo, cuelga, porqueria, corrijan 
+ 	 Lift: instalada, abrela, apahora, asieron, colapsa, congelada, demorar 
+ 	 Score: aplicacion, abrir, dice, mapear, demora, pasa, pesima 
+Topic 7 Top Words:
+ 	 Highest Prob: mal, dinero, carga, hace, queda, mala, opcion 
+ 	 FREX: opcion, estafa, camara, pide, tarjeta, morado, dni 
+ 	 Lift: agrado, almuerzo, altura, analizar, asiendo, aument, bandeja 
+ 	 Score: mal, dinero, carga, mala, lento, hace, opcion 
+Topic 10 Top Words:
+ 	 Highest Prob: puedo, ingresar, entrar, cuenta, cada, favor, aparec 
+ 	 FREX: ingresar, instalar, igual, solucionar, entrar, instal, instalarlo 
+ 	 Lift: deseo, instalarlo, olvid, ingresar, actualidad, afili, breve 
+ 	 Score: puedo, ingresar, entrar, cuenta, cada, favor, instalar 

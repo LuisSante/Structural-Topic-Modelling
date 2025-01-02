@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: numero, deja, ver, nueva, dni, solo, clave 
+ 	 FREX: deja, ver, error, funcionar, carga, contraseña, blanco 
+ 	 Lift: aleatorio, alli, anterior, apellido, appno, bloquear, cabeza 
+ 	 Score: numero, deja, nueva, clave, ver, contraseña, dni 
+Topic 7 Top Words:
+ 	 Highest Prob: llave, celular, gracia, momento, aplicativo, quier, saldo 
+ 	 FREX: suena, mejorando, esperanzado, apean, buenano, aplicativo, sonido 
+ 	 Lift: llamo, sonar, apean, aprend, aprovech, bello, bienno 
+ 	 Score: llave, celular, gracia, sonido, aplicativo, notificacion, suena 
+Topic 10 Top Words:
+ 	 Highest Prob: app, sin, opcion, tiempo, asi, poder, tener 
+ 	 FREX: sin, poder, prestamo, app, demasiado, tiempo, falso 
+ 	 Lift: ahorra, plano, termino, abril, agilizar, apero, aplicar 
+ 	 Score: app, sin, tiempo, opcion, poder, prestamo, bcp 

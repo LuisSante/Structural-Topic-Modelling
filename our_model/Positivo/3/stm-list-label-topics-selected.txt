@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: excelent, bueno, positivo, opcion, feliz, mucha, momento 
+ 	 FREX: excelent, bueno, recomend, supergeni, soluciona, recomendada, prestamo 
+ 	 Lift: diseñ, excelent, exent, implementando, recomendada, soluciona, sumament 
+ 	 Score: excelent, bueno, positivo, feliz, opcion, mucha, recomend 
+Topic 7 Top Words:
+ 	 Highest Prob: aplicacion, usar, facilita, practica, vida, eficient, poder 
+ 	 FREX: aplicacion, practica, eficient, destacado, amig, buenisimo, acogedor 
+ 	 Lift: alerta, añadir, brindan, caracteristica, cuesta, incomodidad, resuelv 
+ 	 Score: aplicacion, usar, facilita, practica, eficient, vida, destacado 
+Topic 10 Top Words:
+ 	 Highest Prob: hacer, sin, funciona, cuenta, cada, compra, estrella 
+ 	 FREX: funciona, vez, salir, quiero, bacan, sistema, hola 
+ 	 Lift: abriendo, abro, acerca, activ, aleatoria, apagar, ase 
+ 	 Score: hacer, sin, funciona, cada, cuenta, vez, compra 
