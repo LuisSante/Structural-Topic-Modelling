@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: codigo, registrarm, actualizacion, frustrado, bcp, sin, falla 
+ 	 FREX: codigo, actualizacion, trist, deberia, frustrado, llamada, necesita 
+ 	 Lift: actualizacion, codigo, abra, apart, apearon, buen, creado 
+ 	 Score: frustrado, tarda, actualizacion, codigo, registrarm, trist, tener 
+Topic 7 Top Words:
+ 	 Highest Prob: dia, ingresar, vez, pide, mismo, descargar, demora 
+ 	 FREX: intentando, dia, demora, descargar, ingresar, aplicativo, instalarlo 
+ 	 Lift: casi, descargarla, estresant, intentando, procedimiento, significa, anim 
+ 	 Score: dia, descargarla, ingresar, descargar, desinstal, intentando, mismo 
+Topic 10 Top Words:
+ 	 Highest Prob: cuenta, dice, deja, dni, aparec, crear, semana 
+ 	 FREX: cuenta, dni, avanzar, registrado, deja, formulario, crear 
+ 	 Lift: avanzar, brindan, comentario, contact, desarrollador, formulario, negocio 
+ 	 Score: cuenta, perdida, dni, dice, deja, crear, aparec 

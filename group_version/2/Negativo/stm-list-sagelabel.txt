@@ -1,0 +1,90 @@
+Topic 1: 
+ 	 Marginal Highest Prob: entrar, abrir, mismo, nunca, respond, actualiza, sigu 
+ 	 Marginal FREX: administrador, gira, vario, suena, actualiza, estresado, administracion 
+ 	 Marginal Lift: aburriendo, acces, aprecio, cuentadic, descargarm, ganar, indebido 
+ 	 Marginal Score: respondio, abrir, entrar, mismo, nunca, actualiza, sigu 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: puedo, cuenta, ingresar, quiero, cada, salio, usar 
+ 	 Marginal FREX: motivo, decepcionado, jose, lenta, puedo, instal, asco 
+ 	 Marginal Lift: debera, llavedic, consideren, decepcionado, descargueno, holainstal, mmmm 
+ 	 Marginal Score: superconfi, puedo, cuenta, ingresar, quiero, usar, cada 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: dice, dinero, pesima, tard, atencion, recibida, enojado 
+ 	 Marginal FREX: atencion, recibida, enojado, frustrado, enojada, insatisfecho, sirv 
+ 	 Marginal Lift: colocarlo, reclamacion, devolv, exijo, reportar, enojada, recibida 
+ 	 Marginal Score: fisica, atencion, recibida, enojado, dinero, dice, enojada 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: problema, mas, opcion, realizar, hoy, bien, clave 
+ 	 Marginal FREX: trabajo, actualizando, saben, mostrar, podido, tres, prueba 
+ 	 Marginal Lift: bienvec, deberiamo, decent, escrito, fase, negativa, retien 
+ 	 Marginal Score: actuar, problema, mas, opcion, bien, clave, realizar 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: sale, mapear, hacer, hace, favor, mala, vez 
+ 	 Marginal FREX: sarcasmo, apeo, buen, descontento, descargar, mala, recargar 
+ 	 Marginal Lift: anbox, aplicacionmucho, diamant, donacion, especificar, flash, gris 
+ 	 Marginal Score: ocupada, sale, mapear, hacer, favor, hace, mala 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 6: 
+ 	 Marginal Highest Prob: deja, actualizacion, celular, pasa, siempr, falla, demora 
+ 	 Marginal FREX: demora, actualizacion, deja, celular, codigo, cae, deberian 
+ 	 Marginal Lift: contien, cunado, efectivament, lanzar, obligada, reja, retiran 
+ 	 Marginal Score: cesta, deja, actualizacion, celular, pasa, falla, demora 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 7: 
+ 	 Marginal Highest Prob: ahora, pesimo, solucion, necesito, pide, saldo, pago 
+ 	 Marginal FREX: hago, nombr, peor, ant, caso, bloqueada, pesimo 
+ 	 Marginal Lift: actualizarplay, apearl, asistencia, asum, audio, bajo, buenisima 
+ 	 Marginal Score: empeorado, ahora, pesimo, solucion, saldo, pago, pide 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 8: 
+ 	 Marginal Highest Prob: actualizar, error, dni, solo, mal, asi, intento 
+ 	 Marginal FREX: desapruebo, asi, semana, foto, espacio, recarga, dni 
+ 	 Marginal Lift: ingresarlo, tristedescontento, identifica, activan, ampliacion, caduca, desapruebo 
+ 	 Marginal Score: opinar, actualizar, dni, error, solo, mal, asi 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 9: 
+ 	 Marginal Highest Prob: llave, aplicacion, app, pued, crear, numero, banco 
+ 	 Marginal FREX: bloquearon, crear, pued, terribl, van, entra, utilizo 
+ 	 Marginal Lift: aliviado, desinstalenla, enlazarlo, evita, oferta, segurament, solessin 
+ 	 Marginal Score: desinstalenla, llave, app, aplicacion, pued, crear, numero 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 10: 
+ 	 Marginal Highest Prob: dia, vece, instalar, aparec, servicio, momento, hora 
+ 	 Marginal FREX: ultimo, situacion, lento, tanto, trist, retirar, aparec 
+ 	 Marginal Lift: accedan, almuerzo, amig, anteriormenteno, buenohac, cobranza, crediticia 
+ 	 Marginal Score: accedan, dia, vece, aparec, instalar, servicio, momento 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 

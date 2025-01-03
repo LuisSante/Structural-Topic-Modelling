@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: rapida, sin, cuenta, realizar, bcp, sencillo, siempr 
+ 	 FREX: sin, bcp, siempr, confianza, necesidad, transaccion, utilizar 
+ 	 Lift: transaccion, bcp, casa, comodo, confianza, contenta, digit 
+ 	 Score: superbien, sin, cuenta, rapida, realizar, bcp, confianza 
+Topic 7 Top Words:
+ 	 Highest Prob: rapido, pago, dinero, tiempo, dia, encanta, recomiendo 
+ 	 FREX: rapido, encanta, apuro, tiempo, ahorra, efectiva, saca 
+ 	 Lift: encanta, rapido, ahorra, apuro, aser, efectiva, facilment 
+ 	 Score: rapido, pago, recomendada, dinero, tiempo, dia, encanta 
+Topic 10 Top Words:
+ 	 Highest Prob: bien, bueno, usar, numero, buen, opinion, chever 
+ 	 FREX: bien, bueno, buen, numero, chever, mal, usar 
+ 	 Lift: bien, buen, chever, bueno, mal, numero, perdi 
+ 	 Score: bueno, bien, chever, usar, buen, numero, opinion 

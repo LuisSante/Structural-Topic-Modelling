@@ -1,0 +1,15 @@
+Topic 2 Top Words:
+ 	 Highest Prob: mas, funciona, asi, hace, banco, pide, alguien 
+ 	 FREX: funciona, banco, trabajo, meno, opinion, regular, godo 
+ 	 Lift: trabajo, acept, ant, aqui, cantidad, casi, desarrollador 
+ 	 Score: funciona, mas, banco, trabajo, opinion, regular, meno 
+Topic 4 Top Words:
+ 	 Highest Prob: llave, actualizar, bien, buena, ahora, pued, actualizacion 
+ 	 FREX: actualizacion, actualizar, funcionar, mucha, demasiado, equipo, play 
+ 	 Lift: funcionar, actualizacion, demasiado, demora, entro, equipo, estrellita 
+ 	 Score: llave, actualizar, actualizacion, buena, bien, ahora, funcionar 
+Topic 6 Top Words:
+ 	 Highest Prob: sale, quiero, opcion, deja, esperanzado, trist, nuevo 
+ 	 FREX: esperanzado, trist, bueno, opcion, sale, momento, saca 
+ 	 Lift: afiliarm, denunciada, desinstalo, jose, modo, principio, saca 
+ 	 Score: sale, esperanzado, trist, opcion, sido, quiero, deja 

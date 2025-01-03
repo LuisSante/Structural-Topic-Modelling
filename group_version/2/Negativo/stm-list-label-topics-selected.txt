@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: dice, dinero, pesima, tard, atencion, recibida, enojado 
+ 	 FREX: atencion, recibida, enojado, frustrado, enojada, insatisfecho, sirv 
+ 	 Lift: colocarlo, reclamacion, devolv, exijo, reportar, enojada, recibida 
+ 	 Score: atencion, recibida, enojado, dinero, dice, enojada, pesima 
+Topic 7 Top Words:
+ 	 Highest Prob: ahora, pesimo, solucion, necesito, pide, saldo, pago 
+ 	 FREX: hago, nombr, peor, ant, caso, bloqueada, pesimo 
+ 	 Lift: actualizarplay, apearl, asistencia, asum, audio, bajo, buenisima 
+ 	 Score: ahora, pesimo, solucion, saldo, pago, pide, peor 
+Topic 10 Top Words:
+ 	 Highest Prob: dia, vece, instalar, aparec, servicio, momento, hora 
+ 	 FREX: ultimo, situacion, lento, tanto, trist, retirar, aparec 
+ 	 Lift: accedan, almuerzo, amig, anteriormenteno, buenohac, cobranza, crediticia 
+ 	 Score: dia, vece, aparec, instalar, servicio, momento, trist 

@@ -1,0 +1,15 @@
+Topic 3 Top Words:
+ 	 Highest Prob: aplicacion, gracia, ayuda, practico, permit, important, chever 
+ 	 FREX: amo, recomendacion, vaya, impresionant, important, espectacular, cool 
+ 	 Lift: activo, brindar, capem, confundido, cool, lima, microcredito 
+ 	 Score: aplicacion, gracia, practico, ayuda, amo, chever, important 
+Topic 7 Top Words:
+ 	 Highest Prob: rapido, hacer, mucha, tener, mapear, numero, eficient 
+ 	 FREX: rapido, hacer, mucha, eficient, buenazo, trabajo, sencillo 
+ 	 Lift: creacion, llamar, ratero, retira, tapet, aceptacion, agiliza 
+ 	 Score: rapido, hacer, mucha, tener, eficient, mapear, numero 
+Topic 10 Top Words:
+ 	 Highest Prob: rapida, encanta, hecho, momento, favor, uso, actualizacion 
+ 	 FREX: momento, agradecido, salva, superbuena, listo, clave, superbien 
+ 	 Lift: comienzo, dificultad, digito, electronica, empeoran, esperanzador, hija 
+ 	 Score: rapida, encanta, actualizacion, momento, favor, hecho, dni 

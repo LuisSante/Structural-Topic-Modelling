@@ -1,0 +1,90 @@
+Topic 1: 
+ 	 Marginal Highest Prob: genial, mejor, mas, gusta, tiempo, asi, favor 
+ 	 Marginal FREX: genial, mejor, gusta, aunqu, siga, celebracion, huella 
+ 	 Marginal Lift: abrazo, actualizando, aleatorio, comida, controlar, crea, daria 
+ 	 Marginal Score: delo, genial, mejor, mas, gusta, tiempo, asi 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 2: 
+ 	 Marginal Highest Prob: rapido, ayuda, pagar, efectivo, encanta, solo, actualizacion 
+ 	 Marginal FREX: rapido, efectivo, encanta, confiabl, experiencia, agradecido, rapidez 
+ 	 Marginal Lift: favorec, incompat, nota, satisfechocontento, agrad, agradecido, aliviado 
+ 	 Marginal Score: import, rapido, ayuda, pagar, efectivo, encanta, solo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 3: 
+ 	 Marginal Highest Prob: excelent, bueno, positivo, opcion, feliz, mucha, momento 
+ 	 Marginal FREX: excelent, bueno, recomend, supergeni, soluciona, recomendada, prestamo 
+ 	 Marginal Lift: diseñ, excelent, exent, implementando, recomendada, soluciona, sumament 
+ 	 Marginal Score: sie, excelent, bueno, positivo, feliz, opcion, mucha 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 4: 
+ 	 Marginal Highest Prob: bien, seguro, gran, seria, perfecto, billetera, apuro 
+ 	 Marginal FREX: bien, seguro, perfecto, billetera, tambien, amoroso, cariñoso 
+ 	 Marginal Lift: alcanc, avanc, borrar, creciendo, excelentedestacado, explicacion, implement 
+ 	 Marginal Score: cher, bien, seguro, gran, perfecto, amoroso, billetera 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 5: 
+ 	 Marginal Highest Prob: util, practico, ahora, dinero, dia, uso, funcion 
+ 	 Marginal FREX: util, practico, dia, funcion, chever, buenazo, eficaz 
+ 	 Marginal Lift: abajo, aburrido, aceptan, adquirir, baja, baño, brillant 
+ 	 Marginal Score: ucu, util, practico, ahora, dia, funcion, chever 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 6: 
+ 	 Marginal Highest Prob: buena, servicio, gracia, aprobado, recomiendo, bastant, sencillo 
+ 	 Marginal FREX: buena, servicio, aprobado, oportunidad, buenaza, espectacular, respuesta 
+ 	 Marginal Lift: activar, aplicacionproblema, basico, buenaza, capacidad, monton, oportunidad 
+ 	 Marginal Score: quejo, buena, servicio, aprobado, gracia, recomiendo, bastant 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 7: 
+ 	 Marginal Highest Prob: aplicacion, usar, facilita, practica, vida, eficient, poder 
+ 	 Marginal FREX: aplicacion, practica, eficient, destacado, amig, buenisimo, acogedor 
+ 	 Marginal Lift: alerta, añadir, brindan, caracteristica, cuesta, incomodidad, resuelv 
+ 	 Marginal Score: utilizada, aplicacion, usar, facilita, practica, eficient, vida 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 8: 
+ 	 Marginal Highest Prob: facil, pago, buen, rapida, hecho, aplicativo, puedo 
+ 	 Marginal FREX: buen, rapida, hecho, aplicativo, important, excepcion, aplauso 
+ 	 Marginal Lift: acercar, cuestion, mexico, monedero, satisfecha, aplauso, ardo 
+ 	 Marginal Score: mito, facil, pago, buen, rapida, hecho, aplicativo 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 9: 
+ 	 Marginal Highest Prob: app, llave, satisfecho, super, pued, cosa, bcp 
+ 	 Marginal FREX: satisfecho, super, ayudar, dato, dio, metodo, bendiga 
+ 	 Marginal Lift: actualizada, adicionar, aga, antiguo, añosa, apeaban, aprecio 
+ 	 Marginal Score: volumen, app, llave, satisfecho, super, pued, bcp 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
+Topic 10: 
+ 	 Marginal Highest Prob: hacer, sin, funciona, cuenta, cada, compra, estrella 
+ 	 Marginal FREX: funciona, vez, salir, quiero, bacan, sistema, hola 
+ 	 Marginal Lift: abriendo, abro, acerca, activ, aleatoria, apagar, ase 
+ 	 Marginal Score: ojo, hacer, sin, funciona, cada, cuenta, vez 
+ 
+ 	 Topic Kappa:  
+ 	 Kappa with Baseline:  
+ 
