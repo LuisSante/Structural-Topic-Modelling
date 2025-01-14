@@ -4,7 +4,7 @@ library(igraph)     # Para análisis y visualización de grafos
 library(stmCorrViz) # Para visualizar correlaciones entre temas de stm
 
 # Leer los datos
-data <- read.csv("C:/Users/Usuario/Documents/Excelsius/word_count/out/model_yape_target.csv")
+data <- read.csv("https://raw.githubusercontent.com/LuisSante/sentiment-analysis/refs/heads/main/out/model_yape_target.csv")
 data$reviews <- as.character(data$reviews) 
 data$reviews[is.na(data$reviews)] <- ""
 
